@@ -1,4 +1,4 @@
-export const FILE_BASE = 'https://raw.githubusercontent.com/Epky/sce_reviewer/main/CSE%202026%20-%20CIVIL%20SERVICE%20EXAM%20REVIEWERS%202026'
+export const FILE_BASE = 'https://raw.githubusercontent.com/Epky/cse_reviewer/main/CSE%202026%20-%20CIVIL%20SERVICE%20EXAM%20REVIEWERS%202026'
 export const WATERMARK = import.meta.env.VITE_WATERMARK || 'Reviewer Vault'
 
 export function fileUrl(sourcePath) {
