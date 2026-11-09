@@ -228,7 +228,7 @@ function ReaderView({ id }) {
     if (!resource || viewFormat !== 'pdf') return
     let cancelled = false
     const task = pdfjsLib.getDocument({
-      url: fileUrl(resource.id),
+      url: fileUrl(resource.sourcePath || resource.id),
       isEvalSupported: false,
     })
 
@@ -667,7 +667,7 @@ function ReaderView({ id }) {
                 />
               )}
               <img
-                src={fileUrl(resource.id)}
+                src={fileUrl(resource.sourcePath || resource.id)}
                 alt={resource.title}
                 draggable={false}
                 onLoad={() => setImageLoaded(true)}

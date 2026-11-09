@@ -1,8 +1,8 @@
-export const FILE_BASE = (import.meta.env.VITE_FILE_BASE || '/api/file').replace(/\/$/, '')
+export const FILE_BASE = 'https://raw.githubusercontent.com/Epky/sce_reviewer/main/CSE%202026%20-%20CIVIL%20SERVICE%20EXAM%20REVIEWERS%202026'
 export const WATERMARK = import.meta.env.VITE_WATERMARK || 'Reviewer Vault'
 
-export function fileUrl(id) {
-  return `${FILE_BASE}/${encodeURIComponent(id)}`
+export function fileUrl(sourcePath) {
+  return `${FILE_BASE}/${encodeURIComponent(sourcePath)}`
 }
 
 export function cx(...parts) {

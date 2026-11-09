@@ -422,6 +422,7 @@ function main() {
         renderFormat,
         renderable,
         pending: !renderable,
+        sourcePath: canonical.rel,
         sizeBytes: entry.size,
         sizeMB: round(entry.size / (1024 * 1024), 2),
         objectKey: renderable ? objectKey : null,

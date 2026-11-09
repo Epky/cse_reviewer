@@ -23,8 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
-# Exam source corpus — never commit the original files
-/CSE 2026 - CIVIL SERVICE EXAM REVIEWERS 2026/
+# Exam source corpus — committed to repo for public file serving
+# /CSE 2026 - CIVIL SERVICE EXAM REVIEWERS 2026/
 
 # Local pipeline artifacts that contain machine paths or generated binaries
 /data/file-map.json

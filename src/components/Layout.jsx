@@ -4,6 +4,7 @@ import {
   Bookmark,
   Folder,
   House,
+  Info,
   Library,
   ListChecks,
   Menu,
@@ -23,6 +24,7 @@ const browseLinks = [
   { to: '/modules', label: 'Modules', icon: Folder },
   { to: '/bookmarks', label: 'Bookmarks', icon: Bookmark },
   { to: '/progress', label: 'My progress', icon: ListChecks },
+  { to: '/about', label: 'How it works', icon: Info },
 ]
 
 export default function Layout() {
@@ -67,7 +69,12 @@ export default function Layout() {
                   key={to}
                   to={to}
                   end={end}
-                  className={({ isActive }) => cx('nav-link', isActive && 'active')}
+                  className={({ isActive }) => {
+                    const isModuleActive =
+                      to === '/modules' &&
+                      (location.pathname === '/modules' || location.pathname === '/module')
+                    return cx('nav-link', (isActive || isModuleActive) && 'active')
+                  }}
                 >
                   <Icon size={17} />
                   <span>{label}</span>

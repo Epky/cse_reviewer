@@ -1,7 +1,8 @@
 const INDEX_KEY = '_meta/index.json'
 const CACHE_TTL = 5 * 60 * 1000
 const RATE_WINDOW = 60 * 1000
-const RATE_MAX = 150
+const RATE_MAX_FILE = 60
+const RATE_MAX_TOKEN = 10
 
 let indexCache = null
 let indexCachedAt = 0
@@ -19,20 +20,9 @@ function allowedOrigin(request, env) {
   if (!list.length) return null
 
   const origin = request.headers.get('Origin')
-  if (origin) {
-    return list.includes('*') || list.includes(origin) ? origin : null
-  }
+  if (!origin) return null
 
-  const referer = request.headers.get('Referer')
-  if (referer) {
-    try {
-      const { origin: refOrigin } = new URL(referer)
-      if (list.includes('*') || list.includes(refOrigin)) return refOrigin
-    } catch {
-      /* malformed referer */
-    }
-  }
-
+  if (list.includes('*') || list.includes(origin)) return origin
   return null
 }
 
@@ -68,25 +58,28 @@ function text(body, status, extra) {
   })
 }
 
-function rateLimited(ip) {
+function rateLimited(ip, endpoint) {
   if (!ip) return false
   const now = Date.now()
-  let entry = hits.get(ip)
+  const key = `${ip}:${endpoint}`
+  let entry = hits.get(key)
 
   if (!entry || now - entry.start > RATE_WINDOW) {
     entry = { start: now, count: 0 }
-    hits.set(ip, entry)
+    hits.set(key, entry)
   }
 
   entry.count += 1
 
+  const max = endpoint === 'token' ? RATE_MAX_TOKEN : RATE_MAX_FILE
+
   if (hits.size > 5000) {
-    for (const [key, value] of hits) {
-      if (now - value.start > RATE_WINDOW) hits.delete(key)
+    for (const [k, value] of hits) {
+      if (now - value.start > RATE_WINDOW) hits.delete(k)
     }
   }
 
-  return entry.count > RATE_MAX
+  return entry.count > max
 }
 
 async function loadIndex(env) {
@@ -161,11 +154,14 @@ export default {
     }
 
     if (!cors) {
+      console.log(`ACCESS_DENIED origin=${request.headers.get('Origin') || 'none'} ip=${request.headers.get('CF-Connecting-IP') || ''} path=${url.pathname}`)
       return text('Forbidden: origin not allowed', 403, headers)
     }
 
     const ip = request.headers.get('CF-Connecting-IP') || ''
-    if (rateLimited(ip)) {
+    const isTokenEndpoint = Boolean(tokenMatch)
+
+    if (rateLimited(ip, isTokenEndpoint ? 'token' : 'file')) {
       return text('Too many requests', 429, { ...headers, 'Retry-After': '60' })
     }
 
@@ -196,12 +192,15 @@ export default {
       const token = url.searchParams.get('t')
       const valid = await verifyToken(env, id, token)
       if (!valid) {
+        console.log(`AUTH_FAILED id=${id} ip=${ip} path=${url.pathname}`)
         return text('Invalid or expired token', 401, {
           ...headers,
           'Cache-Control': 'no-store',
         })
       }
     }
+
+    console.log(`FILE_ACCESS id=${id} ip=${ip} path=${url.pathname} method=${request.method}`)
 
     const key = entry.key
     const size = Number(entry.size) || 0

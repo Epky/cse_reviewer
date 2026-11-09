@@ -7,7 +7,7 @@ binding = "BUCKET"
 bucket_name = "reviewer-vault-files"
 
 [vars]
-# Comma-separated list of allowed site origins. Use * only for quick testing.
-ALLOWED_ORIGINS = "https://reviewer-vault.vercel.app,http://localhost:5173"
-# Set to "1" after the frontend starts sending ?t= token values.
-REQUIRE_TOKEN = "0"
+# Comma-separated list of allowed site origins. No '*' in production.
+ALLOWED_ORIGINS = "https://sce-reviewer.vercel.app"
+# Token enforcement is ON by default. Override via wrangler secret or .dev.vars if needed.
+REQUIRE_TOKEN = "1"
