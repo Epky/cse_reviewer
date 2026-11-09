@@ -1,0 +1,13 @@
+name = "reviewer-vault-files"
+main = "index.js"
+compatibility_date = "2026-01-01"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "reviewer-vault-files"
+
+[vars]
+# Comma-separated list of allowed site origins. Use * only for quick testing.
+ALLOWED_ORIGINS = "https://reviewer-vault.vercel.app,http://localhost:5173"
+# Set to "1" after the frontend starts sending ?t= token values.
+REQUIRE_TOKEN = "0"

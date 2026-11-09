@@ -1,0 +1,2720 @@
+{
+  "collections": [
+    {
+      "id": "cse-2026-exams-and-answers-sheet",
+      "name": "CSE 2026 EXAMS AND ANSWERS SHEET",
+      "path": "CSE 2026 EXAMS AND ANSWERS SHEET",
+      "parentPath": null,
+      "resources": [
+        "civil-service-exam-reviewer-for-2026-b74ac21e",
+        "sample-answer-sheet-for-civil-service-exam-d33e3a55-1"
+      ],
+      "childModules": [],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1",
+      "name": "CSE Reviewers 2026 Compilation 1",
+      "path": "CSE Reviewers 2026 Compilation 1",
+      "parentPath": null,
+      "resources": [
+        "civil-service-exam-reviewer-for-professional-and-sub-professiona-30c04518-1",
+        "march-2025-civil-service-exam-guide-786acfe6-1"
+      ],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/ESSENTIALS!",
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)",
+        "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)",
+        "CSE Reviewers 2026 Compilation 1/3. Additional Civil Service Exam Reviewers",
+        "CSE Reviewers 2026 Compilation 1/4. New Reviewers (present day uploads)",
+        "CSE Reviewers 2026 Compilation 1/5. Clue on how to pass the CSE",
+        "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)",
+        "CSE Reviewers 2026 Compilation 1/7. Essential Read Files",
+        "CSE Reviewers 2026 Compilation 1/8. CURRENT EVENTS",
+        "CSE Reviewers 2026 Compilation 1/9. Major docs CSE-PPT",
+        "CSE Reviewers 2026 Compilation 1/10. Exercise tests (Online)",
+        "CSE Reviewers 2026 Compilation 1/11. Forms (Printable)",
+        "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024",
+        "CSE Reviewers 2026 Compilation 1/13. Additional Civil Service Exam Reviewers",
+        "CSE Reviewers 2026 Compilation 1/14. Ebooks",
+        "CSE Reviewers 2026 Compilation 1/15. Practice Tests",
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)",
+        "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)",
+        "CSE Reviewers 2026 Compilation 1/18. Vocabulary",
+        "CSE Reviewers 2026 Compilation 1/19.  Guide on How to Apply CS Exam"
+      ],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2",
+      "name": "CSE Reviewers 2026 Compilation 2",
+      "path": "CSE Reviewers 2026 Compilation 2",
+      "parentPath": null,
+      "resources": [],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST",
+        "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025",
+        "CSE Reviewers 2026 Compilation 2/3. COMPILATION OF REVIEWERS",
+        "CSE Reviewers 2026 Compilation 2/4. PHILIPPINE CONSTITUITION",
+        "CSE Reviewers 2026 Compilation 2/5. PRACTICE TEST",
+        "CSE Reviewers 2026 Compilation 2/6. ABSTRACT",
+        "CSE Reviewers 2026 Compilation 2/7. CSE REVIEWERS (MORE)",
+        "CSE Reviewers 2026 Compilation 2/8. CURRENT EVENTS",
+        "CSE Reviewers 2026 Compilation 2/9. MUST READ",
+        "CSE Reviewers 2026 Compilation 2/10. TIPS TIPS TIPS"
+      ],
+      "fileCount": 0
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3",
+      "name": "CSE Reviewers 2026 Compilation 3",
+      "path": "CSE Reviewers 2026 Compilation 3",
+      "parentPath": null,
+      "resources": [
+        "civil-service-exam-reviewer-for-professional-and-sub-professiona-30c04518-2"
+      ],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 3/Abstract Reasoning",
+        "CSE Reviewers 2026 Compilation 3/Complete CSE Reviewers Compilation",
+        "CSE Reviewers 2026 Compilation 3/Current Events ( Gen. Info)",
+        "CSE Reviewers 2026 Compilation 3/Grammar",
+        "CSE Reviewers 2026 Compilation 3/Important documents + FORMS",
+        "CSE Reviewers 2026 Compilation 3/Key Words Used in Math Word Problems",
+        "CSE Reviewers 2026 Compilation 3/Logic",
+        "CSE Reviewers 2026 Compilation 3/Logical Reasoning",
+        "CSE Reviewers 2026 Compilation 3/Math Problems (Different topics)",
+        "CSE Reviewers 2026 Compilation 3/Math Word Problems",
+        "CSE Reviewers 2026 Compilation 3/Numerical Reasoning",
+        "CSE Reviewers 2026 Compilation 3/Philippine Constitution, Environment Protection, Labor Code, R.A 6713",
+        "CSE Reviewers 2026 Compilation 3/Practice Tests with Answer Keys",
+        "CSE Reviewers 2026 Compilation 3/Quantitative Reasoning",
+        "CSE Reviewers 2026 Compilation 3/Tips from other passers + Scope of Examination",
+        "CSE Reviewers 2026 Compilation 3/Vocabulary",
+        "CSE Reviewers 2026 Compilation 3/Word Analogy"
+      ],
+      "fileCount": 1
+    }
+  ],
+  "modules": [
+    {
+      "id": "cse-2026-exams-and-answers-sheet",
+      "name": "CSE 2026 EXAMS AND ANSWERS SHEET",
+      "path": "CSE 2026 EXAMS AND ANSWERS SHEET",
+      "parentPath": null,
+      "resources": [
+        "civil-service-exam-reviewer-for-2026-b74ac21e",
+        "sample-answer-sheet-for-civil-service-exam-d33e3a55-1"
+      ],
+      "childModules": [],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1",
+      "name": "CSE Reviewers 2026 Compilation 1",
+      "path": "CSE Reviewers 2026 Compilation 1",
+      "parentPath": null,
+      "resources": [
+        "civil-service-exam-reviewer-for-professional-and-sub-professiona-30c04518-1",
+        "march-2025-civil-service-exam-guide-786acfe6-1"
+      ],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/ESSENTIALS!",
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)",
+        "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)",
+        "CSE Reviewers 2026 Compilation 1/3. Additional Civil Service Exam Reviewers",
+        "CSE Reviewers 2026 Compilation 1/4. New Reviewers (present day uploads)",
+        "CSE Reviewers 2026 Compilation 1/5. Clue on how to pass the CSE",
+        "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)",
+        "CSE Reviewers 2026 Compilation 1/7. Essential Read Files",
+        "CSE Reviewers 2026 Compilation 1/8. CURRENT EVENTS",
+        "CSE Reviewers 2026 Compilation 1/9. Major docs CSE-PPT",
+        "CSE Reviewers 2026 Compilation 1/10. Exercise tests (Online)",
+        "CSE Reviewers 2026 Compilation 1/11. Forms (Printable)",
+        "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024",
+        "CSE Reviewers 2026 Compilation 1/13. Additional Civil Service Exam Reviewers",
+        "CSE Reviewers 2026 Compilation 1/14. Ebooks",
+        "CSE Reviewers 2026 Compilation 1/15. Practice Tests",
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)",
+        "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)",
+        "CSE Reviewers 2026 Compilation 1/18. Vocabulary",
+        "CSE Reviewers 2026 Compilation 1/19.  Guide on How to Apply CS Exam"
+      ],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke",
+      "name": "1. Reviewers 2026 (With Answer Keys)",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Abstract Reasoning",
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Clerical Aptitude",
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/English, Grammar and related",
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Environmental Protection and Management",
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Labor Code",
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Numerical Reasoning",
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Philippine Constitution",
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Reviewers Materials (From Review Centers)",
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers",
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Tips"
+      ],
+      "fileCount": 0
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke-1",
+      "name": "Abstract Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Abstract Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "abstract-reasoning-with-explanation-3ea2a17d-2"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke-2",
+      "name": "Clerical Aptitude",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Clerical Aptitude",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "civil-service-exam-clerical-operations-fd4dd40e",
+        "clerical-aptitude-fb63e93c",
+        "clerical-operation-test-3910ffe9",
+        "clerical-ability-practice-test-set-1-c4e699c6-2",
+        "clerical-ability-practice-test-set-1-answer-key-df74f826-2",
+        "cse-clerical-reviewer-2-fe1c5c06-1",
+        "cse-clerical-reviewer-3-dcc0de67-1",
+        "cse-clerical-reviewer-4-b0947ac8-1"
+      ],
+      "childModules": [],
+      "fileCount": 8
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke-3",
+      "name": "English, Grammar and related",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/English, Grammar and related",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "answers-to-grammar-and-correct-usage-6ccb2dd6-2",
+        "building-vocabulary-prefixes-roots-and-suffixes-2c022dce-3",
+        "common-prefixes-14d00dc0-2",
+        "dictionary-of-english-idioms-and-idiomatic-expressions-356ec989-2",
+        "csc-2-basic-synonyms-48827414-6",
+        "english-verb-drills-bde7d884-4",
+        "epa-bill-substitute-be0bc3e4-2",
+        "read-and-think-english-60280510-2",
+        "csc-4-dictionary-of-synonyms-eb141b63-4",
+        "vocabulary-for-civil-service-exam-a1e72793-3"
+      ],
+      "childModules": [],
+      "fileCount": 10
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke-4",
+      "name": "Environmental Protection and Management",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Environmental Protection and Management",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "lankbank-environmental-88251b56-5",
+        "managing-impacts-of-development-in-the-coastal-zone-c8240aa8-4",
+        "water-code-of-the-philippines-ae9d71b2-4"
+      ],
+      "childModules": [],
+      "fileCount": 3
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke-5",
+      "name": "Labor Code",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Labor Code",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "labor-code-287f2e23-3",
+        "philippines-code-of-conduct-and-ethical-standards-for-public-off-ec298402-3",
+        "q-and-a-on-workers-statutory-monetary-benefits-3cf75708-3",
+        "ra6713-95caf29f-4"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke-6",
+      "name": "Numerical Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Numerical Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "age-problems-984adc22-3",
+        "math-reviewer-for-civil-service-exam-e9290ef6-4",
+        "number-series-98-problems-with-solutions-d6164038-3",
+        "numerical-reasoning-cse-reviewer-d35bb0a2-4",
+        "numerical-reasoning-255-questions-with-answers-fb60541d-3",
+        "numerical-reasoning-practice-questions-c31dd053-4",
+        "vocabulary-math-formulas-af5735ec-2"
+      ],
+      "childModules": [],
+      "fileCount": 7
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke-7",
+      "name": "Philippine Constitution",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Philippine Constitution",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "csc-5-philippine-constitution-9a03b25d-5",
+        "1987-philippine-constitution-57864e49-4",
+        "1987constitution-e844284c-1",
+        "phil-consti-20-qna-1933aff4-1",
+        "phil-history-25qna-6c2df97b-2",
+        "the-philippine-constitution-60-items-a0302063-2"
+      ],
+      "childModules": [],
+      "fileCount": 6
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke-8",
+      "name": "Reviewers Materials (From Review Centers)",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Reviewers Materials (From Review Centers)",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "ace-review-center-csc-bc4e762a-4",
+        "4-ace-review-center-exam-reviewer-around-900-items-with-answers-34420437-4",
+        "ace-review-center-csc-bc4e762a-6",
+        "msa-training-program-e794320f-6"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke-9",
+      "name": "Test Drills with Answers",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)",
+      "resources": [],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers/Civil Service Exam Drills",
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers/CSE Mock Exam and Drills",
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers/PDF Files",
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers/Word Documents",
+        "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers/1Taker Drill"
+      ],
+      "fileCount": 0
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke-10",
+      "name": "1Taker Drill",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers/1Taker Drill",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers",
+      "resources": [
+        "cse-reviewer-answer-keys-1taker-1b5547fd-1",
+        "cse-reviewer-p1-1taker-7ac7b7a8-8",
+        "cse-reviewer-p2-1taker-1ded3197-3"
+      ],
+      "childModules": [],
+      "fileCount": 3
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke-11",
+      "name": "Civil Service Exam Drills",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers/Civil Service Exam Drills",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers",
+      "resources": [
+        "civil-service-reviewer-part-i-bc6cbe5c-2",
+        "civil-service-reviewer-part-ii-29ee6606-2",
+        "civil-service-reviewer-part-iii-675d4537-2",
+        "civil-service-reviewer-part-iv-ee206649-2",
+        "civil-service-reviewer-part-v-f6e2c21f-2"
+      ],
+      "childModules": [],
+      "fileCount": 5
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke-12",
+      "name": "CSE Mock Exam and Drills",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers/CSE Mock Exam and Drills",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers",
+      "resources": [
+        "english-grammar-7694013a-11",
+        "civil-service-mock-exam-1-c5456d62-3",
+        "civil-service-reviewer-with-answer-key-612bd543-3",
+        "cse-mock-exam-f161ae32-4",
+        "professional-and-sub-professional-practice-test-649f8c35-7"
+      ],
+      "childModules": [],
+      "fileCount": 5
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke-13",
+      "name": "PDF Files",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers/PDF Files",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers",
+      "resources": [
+        "answers-to-philippine-civil-service-reviewer-problem-solving-ite-ff6bd425-3",
+        "answers-to-items-21-to-40-of-the-word-problems-for-the-part-ii-o-73f5fb27-4",
+        "answers-in-number-analogy-questions-part-ii-cse-professional-rev-4c0771ef-4",
+        "part-1-philippines-civil-service-professional-reviewer-67dc6040-4",
+        "part-2-philippines-civil-service-professional-reviewer-a0b6781d-4",
+        "part-3-philippines-civil-service-professional-reviewer-3a48b99c-4",
+        "part-4-philippines-civil-service-professional-reviewer-answer-ke-89c1e54e-4",
+        "part-5-cs-reviewer-with-answer-2011-0d872863-4"
+      ],
+      "childModules": [],
+      "fileCount": 8
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke-14",
+      "name": "Word Documents",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers/Word Documents",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Test Drills with Answers",
+      "resources": [
+        "doc-1-philippines-civil-service-professional-reviewer-1-46a3bb0d-5",
+        "doc-2-philippines-civil-service-professional-reviewer-11a5508a-3",
+        "doc-3-philippines-civil-service-professional-reviewer-5c7e75eb-3",
+        "doc-4-philippines-civil-service-professional-reviewer-answer-key-ddaac71c-3",
+        "doc-5-reviewer-with-answer-5566f78b-5",
+        "doc-ans-1-number-analogy-answers-dafd7c8a-3",
+        "doc-ans-2-answers-to-part-iii-philippines-civil-service-professi-0923adef-2",
+        "doc-ans-3-answers-to-part-iii-philippines-civil-service-professi-908b87a2-3",
+        "do6c02-1-9c476791-4",
+        "doc-ans-5-answers-to-the-number-analogy-questions-in-part-ii-civ-4fee8487-4"
+      ],
+      "childModules": [],
+      "fileCount": 10
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-1-reviewers-2026-with-answer-ke-15",
+      "name": "Tips",
+      "path": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)/Tips",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/1. Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "cse-reviewer-p1-1taker-7ac7b7a8-6"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-2-newest-reviewers-2026-with-an",
+      "name": "2. Newest Reviewers 2026 (With Answer Keys)",
+      "path": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/Analogy",
+        "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/English Grammar",
+        "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/English Grammar and Vocabulary Reviewers",
+        "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/Filipino Vocabulary",
+        "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/General Information",
+        "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/Numerical Reasoning",
+        "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/Paragraph Organization",
+        "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/Practical English Grammar",
+        "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/Reading Comprehension",
+        "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/Vocabulary"
+      ],
+      "fileCount": 0
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-2-newest-reviewers-2026-with-an-1",
+      "name": "Analogy",
+      "path": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/Analogy",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "word-analogy-questions-86665cce-3"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-2-newest-reviewers-2026-with-an-2",
+      "name": "English Grammar",
+      "path": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/English Grammar",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "skill-builder-in-focus-learningexpress-editors-501-synonym-and-a-4f11f4a9-3",
+        "1001-vocabulary-and-spelling-questions-eed83a43-1",
+        "basic-grammar-rules-ac4da859-3",
+        "geraldine-woods-english-grammar-workbook-for-dummies-wiley-2006-2f7786eb-2",
+        "goof-proof-grammar-2b3e6a84-2",
+        "grammar-essentials-3rd-edition-ed84ee4d-3",
+        "grammatically-correct-ddde55df-3",
+        "oxford-guide-to-english-grammar-18b4b2e8-3",
+        "jeaneg-1-c3fdaa42-3",
+        "cliff-1-a1f3a844-2"
+      ],
+      "childModules": [],
+      "fileCount": 10
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-2-newest-reviewers-2026-with-an-3",
+      "name": "English Grammar and Vocabulary Reviewers",
+      "path": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/English Grammar and Vocabulary Reviewers",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "1000-quick-writing-ideas-77aef70d-3",
+        "advanced-english-cae-grammar-practice-c42a5fbc-3",
+        "american-accent-training-c0f06d5f-2",
+        "associate-press-sports-writing-handbook-c73f5c73-2",
+        "basic-english-grammar-book-1-34011895-2",
+        "basic-english-grammar-book-1-34011895-4",
+        "basic-english-grammar-book-2-dbc42ce3-2",
+        "the-craft-of-writing-sci-fi-a577013c-3",
+        "better-writing-right-now-e7488d6f-2",
+        "beyond-snobbery-grammar-need-not-be-cruel-to-be-cool-2dcf34b3-3",
+        "business-vocabulary-in-use-7a5abd5d-3",
+        "business-vocabulary-in-use-7a5abd5d-5",
+        "cambridge-english-grammar-in-use-intermediate-incl-answers-a3abd639-2",
+        "check-your-vocabulary-for-english-for-the-ielts-exam-6e2a33ec-2",
+        "collins-cobuild-student-s-grammar-8878cb07-2",
+        "complete-english-grammar-rules-f6c573e2-3",
+        "complete-idiot-s-guide-to-grammar-and-style-1d33db86-3",
+        "comprehensive-grammar-abe9e040-2",
+        "dictionary-of-english-idioms-and-idiomatic-expressions-356ec989-5",
+        "english-brainstormers-ready-to-use-games-and-activities-c2194223-3",
+        "english-for-business-communication-6e078fc1-3",
+        "english-grammar-for-the-utterly-confused-8f3bfcdb-2",
+        "geraldine-woods-english-grammar-workbook-for-dummies-wiley-2006-2f7786eb-4",
+        "english-unlocked-intermediateb1-fc753df6",
+        "english-verb-drills-bde7d884-7",
+        "english-vocabulary-in-use-pre-intermediate-intermediate-70949ccf-2",
+        "english-vocabulary-in-use-upper-intermediate-and-advanced-8bfec2fb-3",
+        "essential-grammar-in-use-supplementary-exercises-e52d890a-3",
+        "gramma-2-de057984-2",
+        "grammar-and-usage-for-better-writing-3ff89744-3",
+        "grammar-practice-for-upper-intermediate-students-5f5d6a67-2",
+        "handwriting-success-secrets-4313699c-2",
+        "longman-english-grammar-practice-for-intermediate-students-05131c3c-3",
+        "modern-english-grammar-106488c0-2",
+        "new-grammar-practice-pre-intermediate-with-key-049ddb69-3",
+        "ntc-s-american-idioms-dictionary-9630e2cd-2",
+        "on-writing-by-stephen-king-0e807845-3",
+        "basic-english-usage-a7094fc3-3",
+        "penguin-dictionary-of-american-english-usage-and-style-a6b3c094-2",
+        "read-and-think-english-60280510-5",
+        "really-useful-english-idioms-d0b198b2-3",
+        "sat-writing-essentials-842ab882-2",
+        "schaums-quick-guide-to-essay-writing-f3ac5d01-3",
+        "smartt-1-cdc5075f-2",
+        "speak-english-like-an-american-dc85417f-3",
+        "steps-to-writing-well-7e54793e-2",
+        "technical-writing-made-easier-736ebeea-3",
+        "the-a-z-of-correct-english-d97e94c2-3",
+        "the-a-z-of-medical-writing-8fb6cf60-3",
+        "the-art-of-writing-and-speaking-the-english-language-a28ef42d-3",
+        "the-funbook-of-creative-writing-67631514-3",
+        "the-grammar-of-english-grammars-5ca236a1-2",
+        "the-handbook-of-good-english-01dd0a23-2",
+        "the-new-fowler-s-modern-english-usage-34af1ff7-2",
+        "the-online-english-grammar-2f5fdf9f-2",
+        "the-oxford-essential-guide-to-writing-e3bcbc7e-3",
+        "the-oxford-guide-to-english-usage-65e82675-3",
+        "the-ultimate-verbal-phrase-book-457082db-2",
+        "webster-essential-vocabulary-19c6c03e-3",
+        "when-bad-grammar-happens-to-good-people-4c25b95a-3",
+        "word-formation-in-english-97c27dd4-3",
+        "english-grammar-practice-for-upper-intermediate-students-6233ec36-2"
+      ],
+      "childModules": [],
+      "fileCount": 62
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-2-newest-reviewers-2026-with-an-4",
+      "name": "Filipino Vocabulary",
+      "path": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/Filipino Vocabulary",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "malalalim-na-salita-sa-tagalog-78b95950-4"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-2-newest-reviewers-2026-with-an-5",
+      "name": "General Information",
+      "path": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/General Information",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "cabinet-of-the-philippines-updated-2020-9fcca9d7-2"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-2-newest-reviewers-2026-with-an-6",
+      "name": "Numerical Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/Numerical Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "learningexpress-editors-501-algebra-questions-learningexpress-20-a35bd5bf-2",
+        "math-word-problems-aed4c5ca-2",
+        "1-math-problems-b7be40f5-4",
+        "algebra-sucsess-in-20-minutes-a-day-e2d471dc-1",
+        "newton-p-bristoll-h-complete-set-of-practice-tests-for-numerical-7557c8f1-3",
+        "learni-4-37e7c6ac-2",
+        "key-words-used-in-math-word-problems-d534421d-4",
+        "math-word-problems-2-6059bf44-2",
+        "math-word-problems-allan-g-bluman-21a2ca57-2",
+        "math-word-problems-demystified-34fb54a8-2",
+        "math-word-problems-demystified-mcgraw-hill-professional-2004-ac7bcf80-1",
+        "math-word-problems-for-dummies-e974da66-1",
+        "math-word-problems-0358a63b-2",
+        "solving-word-problems-career-pr-c11ac347-1",
+        "word-problems-explained-81d84e08-4",
+        "word-problems-worksheets-d2dda0fa-4"
+      ],
+      "childModules": [],
+      "fileCount": 16
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-2-newest-reviewers-2026-with-an-7",
+      "name": "Paragraph Organization",
+      "path": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/Paragraph Organization",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "learni-1-fb56d89b-2"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-2-newest-reviewers-2026-with-an-8",
+      "name": "Practical English Grammar",
+      "path": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/Practical English Grammar",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "1-1-contents-1-fef7acb1-1",
+        "1-2-contents-2-3165b2a3-1",
+        "1-3-contents-3-d7a534e1-1",
+        "2-1-exercises-1-c759d3d3-1",
+        "2-2-exercises-2-08244db8-1",
+        "3-keys-2992ac55-1",
+        "4-1-structure-drills-1-fbb55afc-1",
+        "4-2-structure-drills-2-0bd28f59-1",
+        "a-practical-english-grammar-0f9fda94"
+      ],
+      "childModules": [],
+      "fileCount": 9
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-2-newest-reviewers-2026-with-an-9",
+      "name": "Reading Comprehension",
+      "path": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/Reading Comprehension",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "501-critical-reading-questions-43f2c8fc-2",
+        "skill-1-68de7abb-2",
+        "advanced-reading-power-2d72fb56-4"
+      ],
+      "childModules": [],
+      "fileCount": 3
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-2-newest-reviewers-2026-with-an-10",
+      "name": "Vocabulary",
+      "path": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)/Vocabulary",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/2. Newest Reviewers 2026 (With Answer Keys)",
+      "resources": [
+        "vocabulary-questions-73b9f0e1-4",
+        "express-review-guides-vocabulary-84342f1d-3"
+      ],
+      "childModules": [],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-3-additional-civil-service-exam",
+      "name": "3. Additional Civil Service Exam Reviewers",
+      "path": "CSE Reviewers 2026 Compilation 1/3. Additional Civil Service Exam Reviewers",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/3. Additional Civil Service Exam Reviewers/Civil Service Exam Reviewers (2017-2020)",
+        "CSE Reviewers 2026 Compilation 1/3. Additional Civil Service Exam Reviewers/New Files"
+      ],
+      "fileCount": 0
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-3-additional-civil-service-exam-1",
+      "name": "Civil Service Exam Reviewers (2017-2020)",
+      "path": "CSE Reviewers 2026 Compilation 1/3. Additional Civil Service Exam Reviewers/Civil Service Exam Reviewers (2017-2020)",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/3. Additional Civil Service Exam Reviewers",
+      "resources": [
+        "english-grammar-7694013a-8",
+        "complete-civil-service-reviewer-2018-ce1392ec-4",
+        "phil-cse-complete-reviewer-for-2019-fdc44c58-8",
+        "cse-complete-reviewer-2020-db859b75-6"
+      ],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/3. Additional Civil Service Exam Reviewers/Civil Service Exam Reviewers (2017-2020)/2019 reviewers",
+        "CSE Reviewers 2026 Compilation 1/3. Additional Civil Service Exam Reviewers/Civil Service Exam Reviewers (2017-2020)/2020 reviewers"
+      ],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-3-additional-civil-service-exam-2",
+      "name": "2019 reviewers",
+      "path": "CSE Reviewers 2026 Compilation 1/3. Additional Civil Service Exam Reviewers/Civil Service Exam Reviewers (2017-2020)/2019 reviewers",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/3. Additional Civil Service Exam Reviewers/Civil Service Exam Reviewers (2017-2020)",
+      "resources": [
+        "0001-734138dc",
+        "0002-bc3420fa",
+        "0003-a8eed5e8",
+        "0004-b75bfc83",
+        "0005-6523485e",
+        "0006-55c5827d",
+        "0007-d96e8867",
+        "0008-f5287088",
+        "0009-074949fc",
+        "0010-36de033e",
+        "0011-83d6ae6a",
+        "0012-13ba7724",
+        "0013-202db790",
+        "0014-9f0813da",
+        "0015-cc46264e",
+        "0016-7caaecff",
+        "0017-c40410eb",
+        "0018-2d213dcd",
+        "0019-70a5a46f",
+        "0020-b173efd4",
+        "0021-3f53cecd",
+        "0022-86c0502c",
+        "0023-17656502",
+        "0024-c6ef7359",
+        "0025-043f324a",
+        "0026-22166cbc",
+        "0027-21316dc2",
+        "0028-99314865",
+        "0029-afbbcbdd",
+        "0030-86f73b34",
+        "0031-f31796bf",
+        "0032-50f1d994",
+        "0033-b44a5a2f",
+        "0034-eda93161"
+      ],
+      "childModules": [],
+      "fileCount": 34
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-3-additional-civil-service-exam-3",
+      "name": "2020 reviewers",
+      "path": "CSE Reviewers 2026 Compilation 1/3. Additional Civil Service Exam Reviewers/Civil Service Exam Reviewers (2017-2020)/2020 reviewers",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/3. Additional Civil Service Exam Reviewers/Civil Service Exam Reviewers (2017-2020)",
+      "resources": [
+        "untitled-resource-2824b6b5",
+        "untitled-resource-9e240d29",
+        "untitled-resource-f56690da",
+        "untitled-resource-1e39a107",
+        "untitled-resource-35ae8a11",
+        "untitled-resource-82fdc21a",
+        "untitled-resource-f74f583e",
+        "untitled-resource-0ddb5f61",
+        "untitled-resource-0493ea0e",
+        "untitled-resource-099eee78",
+        "untitled-resource-be040878",
+        "untitled-resource-550609f3",
+        "untitled-resource-e810a0ca",
+        "untitled-resource-b5bc1e37",
+        "untitled-resource-1592295c",
+        "untitled-resource-0ba46df5",
+        "untitled-resource-e46442ff",
+        "untitled-resource-55b35f5a",
+        "untitled-resource-703d495c",
+        "untitled-resource-27f75fbb",
+        "untitled-resource-c369348e",
+        "untitled-resource-d6972516",
+        "untitled-resource-659ffe40",
+        "untitled-resource-7f907d13",
+        "untitled-resource-923ebdce",
+        "untitled-resource-2805bcbd",
+        "untitled-resource-346d33de",
+        "untitled-resource-4cd7522f",
+        "untitled-resource-c7914360",
+        "untitled-resource-beda1f64"
+      ],
+      "childModules": [],
+      "fileCount": 30
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-3-additional-civil-service-exam-4",
+      "name": "New Files",
+      "path": "CSE Reviewers 2026 Compilation 1/3. Additional Civil Service Exam Reviewers/New Files",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/3. Additional Civil Service Exam Reviewers",
+      "resources": [
+        "180-abstract-and-spatial-reasoning-reviewer-with-tutorial-videos-3647f393-2",
+        "item-mathematics-with-detailed-solutions-31304811-5",
+        "items-mathematics-reviewer-with-detailed-solutions-9f3c4329-5",
+        "civil-service-exam-reviewer-2021-pinoy-einstein-61ba9b8c-3"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-4-new-reviewers-present-day-upl",
+      "name": "4. New Reviewers (present day uploads)",
+      "path": "CSE Reviewers 2026 Compilation 1/4. New Reviewers (present day uploads)",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/4. New Reviewers (present day uploads)/New Reviewers (Recent Uploads)"
+      ],
+      "fileCount": 0
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-4-new-reviewers-present-day-upl-1",
+      "name": "New Reviewers (Recent Uploads)",
+      "path": "CSE Reviewers 2026 Compilation 1/4. New Reviewers (present day uploads)/New Reviewers (Recent Uploads)",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/4. New Reviewers (present day uploads)",
+      "resources": [
+        "civil-service-exam-reviewer-2021-pinoy-einstein-ddb51ab4-2",
+        "civil-service-exam-reviewer-2021-pinoy-einstein-61ba9b8c-4",
+        "civil-service-exam-reviewer-for-professional-and-sub-professiona-fefb5cae",
+        "professional-and-sub-professional-practice-test-649f8c35-5"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-5-clue-on-how-to-pass-the-cse",
+      "name": "5. Clue on how to pass the CSE",
+      "path": "CSE Reviewers 2026 Compilation 1/5. Clue on how to pass the CSE",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/5. Clue on how to pass the CSE/TIPS TIPS TIPS TIPS"
+      ],
+      "fileCount": 0
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-5-clue-on-how-to-pass-the-cse-t",
+      "name": "TIPS TIPS TIPS TIPS",
+      "path": "CSE Reviewers 2026 Compilation 1/5. Clue on how to pass the CSE/TIPS TIPS TIPS TIPS",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/5. Clue on how to pass the CSE",
+      "resources": [
+        "19-2022-observations-7d8b4ffe-2",
+        "june-19-exam-1-5f1a0342-2",
+        "june-19-exam-a69c474c-2",
+        "june-2022-3639338b-2",
+        "march-2022-cf73fdd7-2",
+        "scope-of-examination-1-0b69b59d-3",
+        "scope-of-examination-58d84a12-3",
+        "tips-87b2cdea-3",
+        "tips-16b82792-2"
+      ],
+      "childModules": [],
+      "fileCount": 9
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-6-reviewers-new-resources",
+      "name": "6. Reviewers (New Resources)",
+      "path": "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)/Abstract Reasoning",
+        "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)/Logical Reasoning",
+        "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)/Numerical  Reasoning",
+        "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)/Quantitative Reasoning",
+        "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)/Verbal Reasoning"
+      ],
+      "fileCount": 0
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-6-reviewers-new-resources-abstr",
+      "name": "Abstract Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)/Abstract Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)",
+      "resources": [
+        "abstract-reasoning-1-1-7e628ff6-3",
+        "abstract-reasoning-2-1-73e7edee-3",
+        "abstract-reasoning-3-8a1ee2cd-3",
+        "abstract-reasoning-4-ecab0f76-3",
+        "abstract-reasoning-5-bb2b5ef0-2"
+      ],
+      "childModules": [],
+      "fileCount": 5
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-6-reviewers-new-resources-logic",
+      "name": "Logical Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)/Logical Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)",
+      "resources": [
+        "logicalreasoningtest1-questions-7a16ae84-3",
+        "logicalreasoningtest1-solutions-c1c3c69f-3",
+        "logicalreasoningtest2-questions-3e3db9d7-2",
+        "logicalreasoningtest2-solutions-12ce021c-4"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-6-reviewers-new-resources-numer",
+      "name": "Numerical  Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)/Numerical  Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)",
+      "resources": [
+        "numerical-reasoning-1-5a80b31e",
+        "numerical-reasoning-2-557993dd-1",
+        "numerical-reasoning-test1-questions-e3cc12eb-2",
+        "numerical-reasoning-test1-solutions-d2381f22-2",
+        "numerical-reasoning-test2-questions-30230889-2",
+        "numerical-reasoning-test2-solutions-98e7418d-2"
+      ],
+      "childModules": [],
+      "fileCount": 6
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-6-reviewers-new-resources-quant",
+      "name": "Quantitative Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)/Quantitative Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)",
+      "resources": [
+        "quantitative-aptitude-and-reasoning-9bf33498-2",
+        "quantitative-reasoning-2-10a0704a-3"
+      ],
+      "childModules": [],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-6-reviewers-new-resources-verba",
+      "name": "Verbal Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)/Verbal Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/6. Reviewers (New Resources)",
+      "resources": [
+        "verbal-reasoning-english-vocabulary-part-1-d9cbd9bd-2",
+        "verbal-reasoning-english-vocabulary-part-2-07e79106",
+        "verbal-reasoning-english-vocabulary-part-3-1-8f7b389c-2",
+        "verbal-reasoning-english-vocabularypart-4-1-bbdffb73-2",
+        "verbal-reasoning-test1-questions-1-8b36f264-2",
+        "verbal-reasoning-test1-solutions-2c2cced7-2",
+        "verbal-reasoning-test2-questions-85c77a8f",
+        "verbal-reasoning-test2-solutions-4db831e3-2"
+      ],
+      "childModules": [],
+      "fileCount": 8
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-7-essential-read-files",
+      "name": "7. Essential Read Files",
+      "path": "CSE Reviewers 2026 Compilation 1/7. Essential Read Files",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [
+        "english-grammar-2002-sparkcharts-9ba2f2a0-3",
+        "general-knowledge-world-history-2002-sparkcharts-93438f6d-2",
+        "math-basics-2002-sparkcharts-062166e9-2"
+      ],
+      "childModules": [],
+      "fileCount": 3
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-8-current-events",
+      "name": "8. CURRENT EVENTS",
+      "path": "CSE Reviewers 2026 Compilation 1/8. CURRENT EVENTS",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [
+        "2020-in-the-philippines-e39f93c7-1",
+        "2021-in-the-philippines-8cc1f69d-1",
+        "2022-in-the-philippines-05a37113-1",
+        "2023-in-the-philippines-0d58fc7f",
+        "list-of-previous-senators-senate-of-the-philippines-2309a46d-2",
+        "philippine-government-directory-of-agencies-and-officials-9533964e",
+        "pres-marcos-2nd-sona-highlights-and-summary-df96a77e",
+        "senators-of-the-19th-congress-senate-of-the-philippines-17e2d88b-2",
+        "list-of-philippine-presidents-and-their-accomplishments-f8879e22"
+      ],
+      "childModules": [],
+      "fileCount": 9
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-9-major-docs-cse-ppt",
+      "name": "9. Major docs CSE-PPT",
+      "path": "CSE Reviewers 2026 Compilation 1/9. Major docs CSE-PPT",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [
+        "cs-form-no-100-revised-september-2016-d1be4ca1-4",
+        "sample-answer-sheet-for-cs-exam-a0a8ca03-1"
+      ],
+      "childModules": [],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-10-exercise-tests-online",
+      "name": "10. Exercise tests (Online)",
+      "path": "CSE Reviewers 2026 Compilation 1/10. Exercise tests (Online)",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [
+        "practice-tests-2-3ee5f327-2",
+        "practice-tests-a89e01b7-2"
+      ],
+      "childModules": [],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-11-forms-printable",
+      "name": "11. Forms (Printable)",
+      "path": "CSE Reviewers 2026 Compilation 1/11. Forms (Printable)",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [
+        "certificate-of-consent-3150cc9f-1",
+        "civil-service-exam-application-form-7252209f-1",
+        "cs-form-no-100-revised-september-2016-d1be4ca1-1",
+        "health-declaration-form-a1-whole-page-a-27210500-1"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-12-compilations-2017-2024",
+      "name": "12. COMPILATIONS 2017-2024",
+      "path": "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024/2017",
+        "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024/2018",
+        "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024/2019",
+        "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024/2020",
+        "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024/2022"
+      ],
+      "fileCount": 0
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-12-compilations-2017-2024-2017",
+      "name": "2017",
+      "path": "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024/2017",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024",
+      "resources": [
+        "english-grammar-7694013a-6"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-12-compilations-2017-2024-2018",
+      "name": "2018",
+      "path": "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024/2018",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024",
+      "resources": [
+        "complete-civil-service-reviewer-2018-ce1392ec-2"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-12-compilations-2017-2024-2019",
+      "name": "2019",
+      "path": "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024/2019",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024",
+      "resources": [
+        "phil-cse-complete-reviewer-for-2019-fdc44c58-6"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-12-compilations-2017-2024-2020",
+      "name": "2020",
+      "path": "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024/2020",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024",
+      "resources": [
+        "cse-complete-reviewer-2020-db859b75-5",
+        "2020-civil-service-exam-reviewer-d1b6790b-3",
+        "2020-civil-service-exam-reviewer-d1b6790b-1",
+        "cse-complete-reviewer-2020-db859b75-3",
+        "professional-and-sub-professional-practice-test-649f8c35-3"
+      ],
+      "childModules": [],
+      "fileCount": 5
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-12-compilations-2017-2024-2022",
+      "name": "2022",
+      "path": "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024/2022",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024",
+      "resources": [
+        "2-civil-service-exam-complete-reviewer-mock-exam-6f1aab5c-2",
+        "civil-service-exam-reviewer-part-1-6301fb93",
+        "cse-reviewer-p1-1taker-7ac7b7a8-5",
+        "cse-mock-exam-f161ae32-2",
+        "cse-reviewer-3afc3bb7",
+        "sample-answer-sheet-for-cs-exam-a0a8ca03-3"
+      ],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024/2022/free"
+      ],
+      "fileCount": 6
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-12-compilations-2017-2024-2022-",
+      "name": "free",
+      "path": "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024/2022/free",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/12. COMPILATIONS 2017-2024/2022",
+      "resources": [
+        "cse-reviewer-professional-v-1-0-42769817-3",
+        "cse-reviewer-subpro-v-1-0-004cf268-3"
+      ],
+      "childModules": [],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-13-additional-civil-service-exa",
+      "name": "13. Additional Civil Service Exam Reviewers",
+      "path": "CSE Reviewers 2026 Compilation 1/13. Additional Civil Service Exam Reviewers",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [
+        "180-abstract-and-spatial-reasoning-reviewer-with-tutorial-videos-3647f393-1",
+        "item-mathematics-with-detailed-solutions-31304811-3",
+        "items-mathematics-reviewer-with-detailed-solutions-9f3c4329-3"
+      ],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/13. Additional Civil Service Exam Reviewers/Civil Service Exam Reviewers (2017-2020)"
+      ],
+      "fileCount": 3
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-13-additional-civil-service-exa-1",
+      "name": "Civil Service Exam Reviewers (2017-2020)",
+      "path": "CSE Reviewers 2026 Compilation 1/13. Additional Civil Service Exam Reviewers/Civil Service Exam Reviewers (2017-2020)",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/13. Additional Civil Service Exam Reviewers",
+      "resources": [
+        "english-grammar-7694013a-9",
+        "complete-civil-service-reviewer-2018-ce1392ec-5",
+        "phil-cse-complete-reviewer-for-2019-fdc44c58-9",
+        "cse-complete-reviewer-2020-db859b75-7"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-14-ebooks",
+      "name": "14. Ebooks",
+      "path": "CSE Reviewers 2026 Compilation 1/14. Ebooks",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [
+        "logic-challenging-logic-and-reasoning-questions-13d3eb96-2",
+        "4-ace-review-center-exam-reviewer-around-900-items-with-answers-34420437-1",
+        "csc-5-philippine-constitution-9a03b25d-2",
+        "1987-philippine-constitution-57864e49-1",
+        "ace-review-center-csc-bc4e762a-1",
+        "complete-civil-service-reviewer-2018-ce1392ec-1",
+        "csc-2-basic-synonyms-48827414-2",
+        "msa-training-program-e794320f-2",
+        "csc-4-dictionary-of-synonyms-eb141b63-1",
+        "csc-5-philippine-constitution-9a03b25d-1",
+        "csc-mc-no-11-s-1996-repeal-mc-42-1993-classification-of-pos-fc89d490",
+        "csc-2-basic-synonyms-48827414-4",
+        "epa-bill-substitute-be0bc3e4-1",
+        "free-250-math-problems-with-links-for-tutorial-videos-f52ebf55-1",
+        "full-sona-2013-state-of-the-nation-address-president-benigno-aqu-504b42bd-1",
+        "full-sona-2013-english-77514084-1",
+        "lankbank-environmental-88251b56-1",
+        "msa-training-program-e794320f-3",
+        "msa-training-program-e794320f-1",
+        "csc-4-dictionary-of-synonyms-eb141b63-3",
+        "phil-cse-complete-reviewer-for-2019-fdc44c58-1",
+        "philippines-code-of-conduct-and-ethical-standards-for-public-off-ec298402-1",
+        "ra-6713-pdf-af09d171",
+        "ra6713-95caf29f-1",
+        "republic-act-no-3019-bbcf97c0"
+      ],
+      "childModules": [],
+      "fileCount": 25
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-15-practice-tests",
+      "name": "15. Practice Tests",
+      "path": "CSE Reviewers 2026 Compilation 1/15. Practice Tests",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [
+        "do6c02-1-9c476791-2",
+        "ans-key-complete-f44ab012",
+        "answers-in-number-analogy-questions-part-ii-cse-professional-rev-4c0771ef-1",
+        "answers-to-items-21-to-40-of-the-word-problems-for-the-part-ii-o-73f5fb27-1",
+        "answers-to-philippine-civil-service-reviewer-problem-solving-ite-ff6bd425-1",
+        "csc1-cse-reviewer-21-170-53ce0ccb",
+        "ace-review-center-csc-bc4e762a-2",
+        "english-grammar-7694013a-2",
+        "phil-cse-complete-reviewer-for-2019-fdc44c58-3",
+        "do6c02-1-9c476791-1",
+        "doc-1-philippines-civil-service-professional-reviewer-1-46a3bb0d-2",
+        "doc-1-philippines-civil-service-professional-reviewer-1-46a3bb0d-1",
+        "doc-1-philippines-civil-service-professional-reviewer-82b7e9b0",
+        "doc-2-philippines-civil-service-professional-reviewer-11a5508a-1",
+        "doc-2-philippines-civil-service-professional-reviewer-1bff70fe",
+        "doc-3-philippines-civil-service-professional-reviewer-5c7e75eb-1",
+        "doc-3-philippines-civil-service-professional-reviewer-ee64e93b",
+        "doc-4-philippines-civil-service-professional-reviewer-answer-key-ddaac71c-1",
+        "doc-4-philippines-civil-service-professional-reviewer-answer-key-fdf6cc0f",
+        "doc-5-reviewer-with-answer-5566f78b-2",
+        "doc-5-reviewer-with-answer-5566f78b-3",
+        "doc-5-reviewer-with-answer-5566f78b-1",
+        "doc-ans-1-number-analogy-answers-dafd7c8a-1",
+        "doc-ans-1-number-analogy-answers-c7f2c5d7",
+        "doc-ans-2-answers-to-part-iii-philippines-civil-service-professi-0923adef-1",
+        "doc-ans-2-answers-to-part-iii-philippines-civil-service-professi-dfc66a6f",
+        "doc-ans-3-answers-to-part-iii-philippines-civil-service-professi-908b87a2-2",
+        "doc-ans-3-answers-to-part-iii-philippines-civil-service-professi-908b87a2-1",
+        "doc-ans-5-answers-to-the-number-analogy-questions-in-part-ii-civ-4fee8487-2",
+        "doc-ans-5-answers-to-the-number-analogy-questions-in-part-ii-civ-4fee8487-1",
+        "part-1-philippines-civil-service-professional-reviewer-67dc6040-1",
+        "part-2-philippines-civil-service-professional-reviewer-a0b6781d-1",
+        "part-3-philippines-civil-service-professional-reviewer-3a48b99c-1",
+        "part-4-philippines-civil-service-professional-reviewer-answer-ke-89c1e54e-1",
+        "part-5-cs-reviewer-with-answer-2011-0d872863-1"
+      ],
+      "childModules": [],
+      "fileCount": 35
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-16-helpful-reviewers-l-with-ans",
+      "name": "16. Helpful Reviewers l (With Answer Keys)",
+      "path": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Abstract Reasoning",
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/English, Grammar and related",
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Environmental Protection and Management",
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Labor Code",
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Numerical Reasoning",
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Philippine Constitution",
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Reviewers Materials (From Review Centers)",
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers",
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Tips"
+      ],
+      "fileCount": 0
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-16-helpful-reviewers-l-with-ans-1",
+      "name": "Abstract Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Abstract Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)",
+      "resources": [
+        "abstract-reasoning-with-explanation-3ea2a17d-3"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-16-helpful-reviewers-l-with-ans-2",
+      "name": "English, Grammar and related",
+      "path": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/English, Grammar and related",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)",
+      "resources": [
+        "answers-to-grammar-and-correct-usage-6ccb2dd6-3",
+        "building-vocabulary-prefixes-roots-and-suffixes-2c022dce-4",
+        "common-prefixes-14d00dc0-3",
+        "dictionary-of-english-idioms-and-idiomatic-expressions-356ec989-3",
+        "csc-2-basic-synonyms-48827414-7",
+        "english-verb-drills-bde7d884-5",
+        "epa-bill-substitute-be0bc3e4-4",
+        "read-and-think-english-60280510-3",
+        "csc-4-dictionary-of-synonyms-eb141b63-5",
+        "vocabulary-for-civil-service-exam-a1e72793-5"
+      ],
+      "childModules": [],
+      "fileCount": 10
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-16-helpful-reviewers-l-with-ans-3",
+      "name": "Environmental Protection and Management",
+      "path": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Environmental Protection and Management",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)",
+      "resources": [
+        "lankbank-environmental-88251b56-6",
+        "managing-impacts-of-development-in-the-coastal-zone-c8240aa8-5",
+        "sample-answer-sheet-for-cs-exam-a0a8ca03-5",
+        "water-code-of-the-philippines-ae9d71b2-5"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-16-helpful-reviewers-l-with-ans-4",
+      "name": "Labor Code",
+      "path": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Labor Code",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)",
+      "resources": [
+        "labor-code-287f2e23-4",
+        "philippines-code-of-conduct-and-ethical-standards-for-public-off-ec298402-4",
+        "q-and-a-on-workers-statutory-monetary-benefits-3cf75708-4",
+        "ra6713-95caf29f-5"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-16-helpful-reviewers-l-with-ans-5",
+      "name": "Numerical Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Numerical Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)",
+      "resources": [
+        "age-problems-984adc22-4",
+        "math-reviewer-for-civil-service-exam-e9290ef6-5",
+        "number-series-98-problems-with-solutions-d6164038-4",
+        "numerical-reasoning-cse-reviewer-d35bb0a2-5",
+        "numerical-reasoning-255-questions-with-answers-fb60541d-4",
+        "numerical-reasoning-practice-questions-c31dd053-5",
+        "vocabulary-math-formulas-af5735ec-3"
+      ],
+      "childModules": [],
+      "fileCount": 7
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-16-helpful-reviewers-l-with-ans-6",
+      "name": "Philippine Constitution",
+      "path": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Philippine Constitution",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)",
+      "resources": [
+        "csc-5-philippine-constitution-9a03b25d-6",
+        "1987-philippine-constitution-57864e49-5",
+        "1987constitution-e844284c-2",
+        "phil-consti-20-qna-1933aff4-2",
+        "phil-history-25qna-6c2df97b-3",
+        "the-philippine-constitution-60-items-a0302063-3"
+      ],
+      "childModules": [],
+      "fileCount": 6
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-16-helpful-reviewers-l-with-ans-7",
+      "name": "Reviewers Materials (From Review Centers)",
+      "path": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Reviewers Materials (From Review Centers)",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)",
+      "resources": [
+        "ace-review-center-csc-bc4e762a-5",
+        "4-ace-review-center-exam-reviewer-around-900-items-with-answers-34420437-5",
+        "ace-review-center-csc-bc4e762a-7",
+        "msa-training-program-e794320f-7"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-16-helpful-reviewers-l-with-ans-8",
+      "name": "Test Drills with Answers",
+      "path": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)",
+      "resources": [],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers/More Drills",
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers/MS Word",
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers/PDF",
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers/1 Taker Drill",
+        "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers/5-Part CSE Drill"
+      ],
+      "fileCount": 0
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-16-helpful-reviewers-l-with-ans-9",
+      "name": "1 Taker Drill",
+      "path": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers/1 Taker Drill",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers",
+      "resources": [
+        "cse-reviewer-answer-keys-1taker-1b5547fd-2",
+        "cse-reviewer-p1-1taker-7ac7b7a8-9",
+        "cse-reviewer-p2-1taker-1ded3197-4"
+      ],
+      "childModules": [],
+      "fileCount": 3
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-16-helpful-reviewers-l-with-ans-10",
+      "name": "5-Part CSE Drill",
+      "path": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers/5-Part CSE Drill",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers",
+      "resources": [
+        "civil-service-reviewer-part-i-bc6cbe5c-1",
+        "civil-service-reviewer-part-ii-29ee6606-1",
+        "civil-service-reviewer-part-iii-675d4537-1",
+        "civil-service-reviewer-part-iv-ee206649-1",
+        "civil-service-reviewer-part-v-f6e2c21f-1"
+      ],
+      "childModules": [],
+      "fileCount": 5
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-16-helpful-reviewers-l-with-ans-11",
+      "name": "More Drills",
+      "path": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers/More Drills",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers",
+      "resources": [
+        "english-grammar-7694013a-10",
+        "civil-service-mock-exam-1-c5456d62-1",
+        "civil-service-mock-exam-1-c5456d62-2",
+        "civil-service-reviewer-with-answer-key-612bd543-2",
+        "cse-mock-exam-f161ae32-3",
+        "professional-and-sub-professional-practice-test-649f8c35-6"
+      ],
+      "childModules": [],
+      "fileCount": 6
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-16-helpful-reviewers-l-with-ans-12",
+      "name": "MS Word",
+      "path": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers/MS Word",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers",
+      "resources": [
+        "doc-1-philippines-civil-service-professional-reviewer-1-46a3bb0d-4",
+        "doc-2-philippines-civil-service-professional-reviewer-11a5508a-2",
+        "doc-3-philippines-civil-service-professional-reviewer-5c7e75eb-2",
+        "doc-4-philippines-civil-service-professional-reviewer-answer-key-ddaac71c-2",
+        "doc-5-reviewer-with-answer-5566f78b-4",
+        "doc-ans-1-number-analogy-answers-dafd7c8a-2",
+        "doc-1-philippines-civil-service-professional-reviewer-1-46a3bb0d-3",
+        "doc-ans-5-answers-to-the-number-analogy-questions-in-part-ii-civ-4fee8487-3",
+        "do6c02-1-9c476791-3"
+      ],
+      "childModules": [],
+      "fileCount": 9
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-16-helpful-reviewers-l-with-ans-13",
+      "name": "PDF",
+      "path": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers/PDF",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Test Drills with Answers",
+      "resources": [
+        "answers-to-items-21-to-40-of-the-word-problems-for-the-part-ii-o-73f5fb27-3",
+        "answers-in-number-analogy-questions-part-ii-cse-professional-rev-4c0771ef-5",
+        "answers-to-philippine-civil-service-reviewer-problem-solving-ite-ff6bd425-4",
+        "part-1-philippines-civil-service-professional-reviewer-67dc6040-3",
+        "part-2-philippines-civil-service-professional-reviewer-a0b6781d-3",
+        "part-3-philippines-civil-service-professional-reviewer-3a48b99c-3",
+        "part-4-philippines-civil-service-professional-reviewer-answer-ke-89c1e54e-3",
+        "part-5-cs-reviewer-with-answer-2011-0d872863-3"
+      ],
+      "childModules": [],
+      "fileCount": 8
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-16-helpful-reviewers-l-with-ans-14",
+      "name": "Tips",
+      "path": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)/Tips",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/16. Helpful Reviewers l (With Answer Keys)",
+      "resources": [
+        "cse-reviewer-p1-1taker-7ac7b7a8-7"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-17-helpful-reviewers-ll-with-an",
+      "name": "17. Helpful Reviewers ll (With Answer Keys)",
+      "path": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/Analogy",
+        "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/English Grammar",
+        "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/English Grammar and Vocabulary Reviewers",
+        "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/Filipino Vocabulary",
+        "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/General Information",
+        "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/Numerical Reasoning",
+        "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/Paragraph Organization",
+        "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/Reading Comprehension",
+        "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/Vocabulary"
+      ],
+      "fileCount": 0
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-17-helpful-reviewers-ll-with-an-1",
+      "name": "Analogy",
+      "path": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/Analogy",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)",
+      "resources": [
+        "word-analogy-questions-86665cce-5"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-17-helpful-reviewers-ll-with-an-2",
+      "name": "English Grammar",
+      "path": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/English Grammar",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)",
+      "resources": [
+        "cliff-1-a1f3a844-1",
+        "grammar-essentials-3rd-edition-ed84ee4d-2",
+        "skill-builder-in-focus-learningexpress-editors-501-synonym-and-a-4f11f4a9-2",
+        "grammatically-correct-ddde55df-2",
+        "basic-grammar-rules-ac4da859-2",
+        "geraldine-woods-english-grammar-workbook-for-dummies-wiley-2006-2f7786eb-5",
+        "jeaneg-1-c3fdaa42-1",
+        "1001-vocabulary-and-spelling-questions-eed83a43-3",
+        "goof-proof-grammar-2b3e6a84-3",
+        "oxford-guide-to-english-grammar-18b4b2e8-2"
+      ],
+      "childModules": [],
+      "fileCount": 10
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-17-helpful-reviewers-ll-with-an-3",
+      "name": "English Grammar and Vocabulary Reviewers",
+      "path": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/English Grammar and Vocabulary Reviewers",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)",
+      "resources": [
+        "english-grammar-practice-for-upper-intermediate-students-6233ec36-3",
+        "1000-quick-writing-ideas-77aef70d-2",
+        "advanced-english-cae-grammar-practice-c42a5fbc-2",
+        "american-accent-training-c0f06d5f-1",
+        "associate-press-sports-writing-handbook-c73f5c73-1",
+        "basic-english-grammar-book-1-34011895-1",
+        "basic-english-grammar-book-1-34011895-3",
+        "basic-english-grammar-book-2-dbc42ce3-1",
+        "the-craft-of-writing-sci-fi-a577013c-2",
+        "better-writing-right-now-e7488d6f-1",
+        "beyond-snobbery-grammar-need-not-be-cruel-to-be-cool-2dcf34b3-2",
+        "business-vocabulary-in-use-7a5abd5d-2",
+        "business-vocabulary-in-use-7a5abd5d-4",
+        "cambridge-english-grammar-in-use-intermediate-incl-answers-a3abd639-1",
+        "check-your-vocabulary-for-english-for-the-ielts-exam-6e2a33ec-1",
+        "collins-cobuild-student-s-grammar-8878cb07-1",
+        "complete-english-grammar-rules-f6c573e2-2",
+        "complete-idiot-s-guide-to-grammar-and-style-1d33db86-2",
+        "comprehensive-grammar-abe9e040-1",
+        "dictionary-of-english-idioms-and-idiomatic-expressions-356ec989-4",
+        "english-brainstormers-ready-to-use-games-and-activities-c2194223-2",
+        "english-for-business-communication-6e078fc1-2",
+        "english-grammar-for-the-utterly-confused-8f3bfcdb-1",
+        "geraldine-woods-english-grammar-workbook-for-dummies-wiley-2006-2f7786eb-3",
+        "english-verb-drills-bde7d884-6",
+        "english-vocabulary-in-use-pre-intermediate-intermediate-70949ccf-1",
+        "english-vocabulary-in-use-upper-intermediate-and-advanced-8bfec2fb-2",
+        "essential-grammar-in-use-supplementary-exercises-e52d890a-2",
+        "gramma-2-de057984-1",
+        "grammar-and-usage-for-better-writing-3ff89744-2",
+        "grammar-practice-for-upper-intermediate-students-5f5d6a67-1",
+        "handwriting-success-secrets-4313699c-1",
+        "how-english-works-c2a63858-2",
+        "how-english-works-c2a63858-1",
+        "longman-english-grammar-practice-for-intermediate-students-05131c3c-2",
+        "modern-english-grammar-106488c0-1",
+        "new-grammar-practice-pre-intermediate-with-key-049ddb69-2",
+        "ntc-s-american-idioms-dictionary-9630e2cd-1",
+        "on-writing-by-stephen-king-0e807845-2",
+        "basic-english-usage-a7094fc3-2",
+        "penguin-dictionary-of-american-english-usage-and-style-a6b3c094-1",
+        "read-and-think-english-60280510-4",
+        "really-useful-english-idioms-d0b198b2-2",
+        "sat-writing-essentials-842ab882-1",
+        "schaums-quick-guide-to-essay-writing-f3ac5d01-2",
+        "smartt-1-cdc5075f-1",
+        "speak-english-like-an-american-dc85417f-2",
+        "steps-to-writing-well-7e54793e-1",
+        "technical-writing-made-easier-736ebeea-2",
+        "the-a-z-of-correct-english-d97e94c2-2",
+        "the-a-z-of-medical-writing-8fb6cf60-2",
+        "the-art-of-writing-and-speaking-the-english-language-a28ef42d-2",
+        "the-funbook-of-creative-writing-67631514-2",
+        "the-grammar-of-english-grammars-5ca236a1-1",
+        "the-handbook-of-good-english-01dd0a23-1",
+        "the-new-fowler-s-modern-english-usage-34af1ff7-1",
+        "the-online-english-grammar-2f5fdf9f-1",
+        "the-oxford-essential-guide-to-writing-e3bcbc7e-2",
+        "the-oxford-guide-to-english-usage-65e82675-2",
+        "the-ultimate-verbal-phrase-book-457082db-1",
+        "webster-essential-vocabulary-19c6c03e-2",
+        "when-bad-grammar-happens-to-good-people-4c25b95a-2",
+        "word-formation-in-english-97c27dd4-2"
+      ],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/English Grammar and Vocabulary Reviewers/A Practical English Grammar"
+      ],
+      "fileCount": 63
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-17-helpful-reviewers-ll-with-an-4",
+      "name": "A Practical English Grammar",
+      "path": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/English Grammar and Vocabulary Reviewers/A Practical English Grammar",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/English Grammar and Vocabulary Reviewers",
+      "resources": [
+        "1-1-contents-1-fef7acb1-2",
+        "1-2-contents-2-3165b2a3-2",
+        "1-3-contents-3-d7a534e1-2",
+        "2-1-exercises-1-c759d3d3-2",
+        "2-2-exercises-2-08244db8-2",
+        "3-keys-2992ac55-2",
+        "4-1-structure-drills-1-fbb55afc-2",
+        "4-2-structure-drills-2-0bd28f59-2"
+      ],
+      "childModules": [],
+      "fileCount": 8
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-17-helpful-reviewers-ll-with-an-5",
+      "name": "Filipino Vocabulary",
+      "path": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/Filipino Vocabulary",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)",
+      "resources": [
+        "malalalim-na-salita-sa-tagalog-78b95950-3"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-17-helpful-reviewers-ll-with-an-6",
+      "name": "General Information",
+      "path": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/General Information",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)",
+      "resources": [
+        "cabinet-of-the-philippines-updated-2020-9fcca9d7-1"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-17-helpful-reviewers-ll-with-an-7",
+      "name": "Numerical Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/Numerical Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)",
+      "resources": [
+        "algebra-sucsess-in-20-minutes-a-day-e2d471dc-3",
+        "math-word-problems-2-6059bf44-3",
+        "solving-word-problems-career-pr-c11ac347-3",
+        "math-word-problems-demystified-34fb54a8-3",
+        "math-word-problems-demystified-mcgraw-hill-professional-2004-ac7bcf80-2",
+        "key-words-used-in-math-word-problems-d534421d-3",
+        "learni-4-37e7c6ac-1",
+        "math-word-problems-aed4c5ca-4",
+        "learningexpress-editors-501-algebra-questions-learningexpress-20-a35bd5bf-4",
+        "1-math-problems-b7be40f5-6",
+        "math-word-problems-for-dummies-e974da66-3",
+        "math-word-problems-allan-g-bluman-21a2ca57-1",
+        "math-word-problems-0358a63b-4",
+        "newton-p-bristoll-h-complete-set-of-practice-tests-for-numerical-7557c8f1-4",
+        "word-problems-explained-81d84e08-3",
+        "word-problems-worksheets-d2dda0fa-3"
+      ],
+      "childModules": [],
+      "fileCount": 16
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-17-helpful-reviewers-ll-with-an-8",
+      "name": "Paragraph Organization",
+      "path": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/Paragraph Organization",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)",
+      "resources": [
+        "additional-detailed-resource-for-paragraph-organization-58ecb5ac",
+        "analyzing-paragraph-organization-questions-in-csc-exam-29a2890d",
+        "learni-1-fb56d89b-1",
+        "paragraph-helpsheet-9c50474d",
+        "quick-tips-6e3b14ea"
+      ],
+      "childModules": [],
+      "fileCount": 5
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-17-helpful-reviewers-ll-with-an-9",
+      "name": "Reading Comprehension",
+      "path": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/Reading Comprehension",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)",
+      "resources": [
+        "skill-1-68de7abb-1",
+        "501-critical-reading-questions-43f2c8fc-1",
+        "advanced-reading-power-2d72fb56-2"
+      ],
+      "childModules": [],
+      "fileCount": 3
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-17-helpful-reviewers-ll-with-an-10",
+      "name": "Vocabulary",
+      "path": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)/Vocabulary",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/17. Helpful Reviewers ll (With Answer Keys)",
+      "resources": [
+        "vocabulary-questions-73b9f0e1-3",
+        "express-review-guides-vocabulary-84342f1d-4"
+      ],
+      "childModules": [],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-18-vocabulary",
+      "name": "18. Vocabulary",
+      "path": "CSE Reviewers 2026 Compilation 1/18. Vocabulary",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [
+        "vocabulary-questions-73b9f0e1-2",
+        "express-review-guides-vocabulary-84342f1d-2"
+      ],
+      "childModules": [],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-19-guide-on-how-to-apply-cs-exa",
+      "name": "19.  Guide on How to Apply CS Exam",
+      "path": "CSE Reviewers 2026 Compilation 1/19.  Guide on How to Apply CS Exam",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [
+        "march-2025-civil-service-exam-guide-786acfe6-2",
+        "cs-form-no-100-revised-september-2016-d1be4ca1-3"
+      ],
+      "childModules": [],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-essentials",
+      "name": "ESSENTIALS!",
+      "path": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!",
+      "parentPath": "CSE Reviewers 2026 Compilation 1",
+      "resources": [
+        "free-csc-reviewer-2023-f9d87834"
+      ],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/Analytical Ability and Clerical Ability Books, Lectures, and Practice Tests",
+        "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/Civil Service Exam Forms and Information",
+        "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/CSE Reviewers Compilation",
+        "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/FilipiKnow Reviewers",
+        "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/General Information Books, Lectures, and Practice Tests",
+        "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/Leonalyn Reviewers",
+        "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/Math Academy Reviewer",
+        "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/Numerical Ability Books, Lectures, and Practice Tests",
+        "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/Powerpoint Reviewers",
+        "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/TeachPinas.com Reviewers",
+        "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/Verbal Ability Books, Lectures, and Practice Tests"
+      ],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-essentials-analytical-ability-a",
+      "name": "Analytical Ability and Clerical Ability Books, Lectures, and Practice Tests",
+      "path": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/Analytical Ability and Clerical Ability Books, Lectures, and Practice Tests",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!",
+      "resources": [
+        "logic-challenging-logic-and-reasoning-questions-13d3eb96-3",
+        "word-analogy-questions-86665cce-4",
+        "1001-vocabulary-and-spelling-questions-eed83a43-2",
+        "a-concise-introduction-to-logic-ddf49d71",
+        "critical-thinking-skills-success-in-20-minutes-a-day-99eecfd1",
+        "cse-analytical-reviewer-1-773f9086",
+        "abstract-reasoning-with-explanation-3ea2a17d-4",
+        "cse-analytical-reviewer-3-13d02c35",
+        "cse-analytical-reviewer-4-5074f72a",
+        "cse-clerical-reviewer-1-f2368474",
+        "cse-clerical-reviewer-2-fe1c5c06-2",
+        "cse-clerical-reviewer-3-dcc0de67-2",
+        "cse-clerical-reviewer-4-b0947ac8-2",
+        "cse-clerical-reviewer-5-707f8182",
+        "cse-clerical-reviewer-6-7a65b8a1",
+        "cse-clerical-reviewer-7-772cc53d",
+        "goof-proof-spelling-5b9a3762",
+        "reasoning-skills-success-in-20-minutes-a-day-b391e70c",
+        "vocabulary-and-spelling-success-in-20-minutes-a-day-51dc63f8-2"
+      ],
+      "childModules": [],
+      "fileCount": 19
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-essentials-civil-service-exam-f",
+      "name": "Civil Service Exam Forms and Information",
+      "path": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/Civil Service Exam Forms and Information",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!",
+      "resources": [
+        "certificate-of-consent-3150cc9f-3",
+        "cs-form-no-100-revised-september-2016-d1be4ca1-5",
+        "declaration-form-csc-0693d39f",
+        "eligibility-or-examination-records-request-form-csc-b3f6e4b5",
+        "examinees-guide-in-taking-civil-service-exam-d9ee6197",
+        "health-declaration-form-a1-whole-page-a-27210500-3",
+        "sample-answer-sheet-for-cs-exam-a0a8ca03-4"
+      ],
+      "childModules": [],
+      "fileCount": 7
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-essentials-cse-reviewers-compil",
+      "name": "CSE Reviewers Compilation",
+      "path": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/CSE Reviewers Compilation",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!",
+      "resources": [
+        "501-gmat-questions-541e745e",
+        "4-ace-review-center-exam-reviewer-around-900-items-with-answers-34420437-2",
+        "career-civil-service-exam-professional-1618090a",
+        "career-service-examination-reviewer-2011-90fcd565",
+        "civil-service-exam-by-carl-balita-7384f146",
+        "english-grammar-7694013a-7",
+        "complete-civil-service-reviewer-2018-ce1392ec-3",
+        "civil-service-exam-complete-reviewer-2018-2-895eb405",
+        "phil-cse-complete-reviewer-for-2019-fdc44c58-7",
+        "cse-complete-reviewer-2020-db859b75-4",
+        "civil-service-exam-reviewer-compress-56cf180d",
+        "civil-service-exam-reviewer-2017-0e45d0d0",
+        "civil-service-exam-reviewer-2021-pinoy-einstein-61ba9b8c-2",
+        "civil-service-exam-reviewer-2022-a0944d8a",
+        "professional-and-sub-professional-practice-test-649f8c35-4",
+        "2020-civil-service-exam-reviewer-d1b6790b-2",
+        "cse-august-2017-lecture-b16f5bb4",
+        "cse-english-and-math-tips-87e5c64f",
+        "cse-practice-test-27bac683",
+        "cse-reviewer-professional-v-1-0-42769817-2",
+        "cse-reviewer-subpro-v-1-0-004cf268-2",
+        "cse-reviewer-with-answers1-9cc34022",
+        "cse-reviewer-p1-1taker-7ac7b7a8-4",
+        "cse-reviewer-p2-1taker-1ded3197-2",
+        "english-cse-2020-7f75e41e",
+        "filipino-cse-2020-7cce5ba7",
+        "full-sona-2013-english-77514084-2",
+        "full-sona-2013-state-of-the-nation-address-president-benigno-aqu-504b42bd-2",
+        "intelligence-tests-31303a03",
+        "master-cse-study-guide-df346416",
+        "mathematics-cse-2020-6db18e90",
+        "msa-training-program-e794320f-5",
+        "part-1-philippines-civil-service-professional-reviewer-67dc6040-2",
+        "part-2-philippines-civil-service-professional-reviewer-a0b6781d-2",
+        "part-3-philippines-civil-service-professional-reviewer-3a48b99c-2",
+        "part-4-philippines-civil-service-professional-reviewer-answer-ke-89c1e54e-2",
+        "part-5-cs-reviewer-with-answer-2011-0d872863-2",
+        "philippine-civil-service-exam-complete-reviewer-by-joel-dancalan-75bdce15",
+        "tips-and-answer-key-for-civil-service-reviewer-1c51c1be"
+      ],
+      "childModules": [],
+      "fileCount": 39
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-essentials-filipiknow-reviewers",
+      "name": "FilipiKnow Reviewers",
+      "path": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/FilipiKnow Reviewers",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!",
+      "resources": [
+        "analytical-ability-practice-test-set-1-8e22d931",
+        "analytical-ability-practice-test-set-1-answers-c77aa6dc",
+        "analytical-ability-practice-test-set-2-answers-1cd53fb5",
+        "analytical-ability-practice-test-set-2-f555077b",
+        "analytical-ability-practice-test-set-3-5f741a4f",
+        "analytical-ability-practice-test-set-3-answers-6170d494",
+        "analytical-ability-practice-test-set-4-answers-048c7122",
+        "analytical-ability-practice-test-set-4-d19bb4b6",
+        "analytical-ability-practice-test-set-5-answers-44a1cf05",
+        "analytical-ability-practice-test-set-5-0d43d229",
+        "clerical-ability-practice-test-set-1-answer-key-df74f826-1",
+        "clerical-ability-practice-test-set-1-c4e699c6-1",
+        "clerical-ability-practice-test-set-2-answers-b2456bb6",
+        "clerical-ability-practice-test-set-2-4dd0e001",
+        "general-information-practice-test-set-1-answers-a8972302",
+        "general-information-practice-test-set-1-606526ab",
+        "general-information-practice-test-set-2-answers-ff954133",
+        "general-information-practice-test-set-2-ca44b92e",
+        "numerical-ability-answer-key-set-5-96272bc9",
+        "numerical-ability-answer-key-set-6-revised-b10632ae",
+        "numerical-ability-answer-key-set-7-revised-99c3f0fb",
+        "numerical-ability-practice-questions-set-1-answers-revised-57159b9b",
+        "numerical-ability-practice-questions-set-1-3f143398",
+        "numerical-ability-practice-questions-set-2-answers-updated-1-0dd29a3d",
+        "numerical-ability-practice-questions-set-2-171e380b",
+        "numerical-ability-practice-questions-set-3-answers-revised-113ccf3c",
+        "numerical-ability-practice-questions-set-3-a6ed680e",
+        "numerical-ability-practice-questions-set-4-answers-revised-86a69d42",
+        "numerical-ability-practice-questions-set-4-9d21df0b",
+        "numerical-ability-practice-questions-set-5-8069c848",
+        "numerical-ability-practice-questions-set-6-revised-f452ed62",
+        "numerical-ability-practice-questions-set-7-revised-1a5ce81d",
+        "verbal-ability-answer-key-set-1-1-70e94459",
+        "verbal-ability-answer-key-set-2-1-6b1700c1",
+        "verbal-ability-answer-key-set-3-b72ae7af",
+        "verbal-ability-answer-key-set-4-aa4e9a7d",
+        "verbal-ability-answer-key-set-5-3479948b",
+        "verbal-ability-practice-questions-set-1-1-afc54b5b",
+        "verbal-ability-practice-questions-set-2-1-20030249",
+        "verbal-ability-practice-questions-set-3-dd362c8f",
+        "verbal-ability-practice-questions-set-4-da2bb1d7",
+        "verbal-ability-practice-questions-set-5-122b18a4"
+      ],
+      "childModules": [],
+      "fileCount": 42
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-essentials-general-information-",
+      "name": "General Information Books, Lectures, and Practice Tests",
+      "path": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/General Information Books, Lectures, and Practice Tests",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!",
+      "resources": [
+        "cse-general-information-reviewer-1-746be838",
+        "cse-general-information-reviewer-2-c42ffd23",
+        "cse-general-information-reviewer-3-f49c3f8e",
+        "cse-general-information-reviewer-4-eea7df3a",
+        "epa-bill-substitute-be0bc3e4-3",
+        "cse-general-information-reviewer-6-b356a8d4",
+        "labor-code-287f2e23-5",
+        "lankbank-environmental-88251b56-4",
+        "managing-impacts-of-development-in-the-coastal-zone-c8240aa8-3",
+        "q-and-a-on-workers-statutory-monetary-benefits-3cf75708-5",
+        "water-code-of-the-philippines-ae9d71b2-3"
+      ],
+      "childModules": [],
+      "fileCount": 11
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-essentials-leonalyn-reviewers",
+      "name": "Leonalyn Reviewers",
+      "path": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/Leonalyn Reviewers",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!",
+      "resources": [
+        "170-item-number-series-exam-by-leonalyn-f952cad2",
+        "180-item-abstract-reasoning-exam-by-leonalyn-79e46160",
+        "200-item-math-exam-by-leonalyn-bc540c2e",
+        "free-250-math-problems-with-links-for-tutorial-videos-f52ebf55-3",
+        "item-mathematics-with-detailed-solutions-31304811-4",
+        "items-mathematics-reviewer-with-detailed-solutions-9f3c4329-4"
+      ],
+      "childModules": [],
+      "fileCount": 6
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-essentials-math-academy-reviewe",
+      "name": "Math Academy Reviewer",
+      "path": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/Math Academy Reviewer",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!",
+      "resources": [
+        "30-questions-word-problems-part-2-in-math-283a6763",
+        "40-questions-number-series-sequence-in-math-34613971",
+        "40-questions-word-problems-part-1-in-math-4666608a",
+        "125-questions-basic-operations-in-math-896e8171"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-essentials-numerical-ability-bo",
+      "name": "Numerical Ability Books, Lectures, and Practice Tests",
+      "path": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/Numerical Ability Books, Lectures, and Practice Tests",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!",
+      "resources": [
+        "learningexpress-editors-501-algebra-questions-learningexpress-20-a35bd5bf-3",
+        "501-calculus-questions-fb7a6491",
+        "501-geometry-questions-4bd2ff26",
+        "math-word-problems-aed4c5ca-3",
+        "501-measurement-and-conversion-questions-9e0ab73b",
+        "501-quantitative-comparison-questions-83e3ac56",
+        "1001-algebra-problems-cf8d72e5",
+        "1-math-problems-b7be40f5-5",
+        "algebra-sucsess-in-20-minutes-a-day-e2d471dc-2",
+        "basic-mathematics-for-cse-34b80115",
+        "basic-mathematics-for-students-4fbfb7a9",
+        "business-math-for-dummies-d13745be",
+        "calculus-success-in-20-minutes-a-day-00f07faf",
+        "cse-math-formula-1-3052b295",
+        "cse-math-formula-2-0909e52e",
+        "key-words-used-in-math-word-problems-d534421d-2",
+        "cse-math-lecture-1-86494b81",
+        "quantitative-reasoning-2-10a0704a-4",
+        "cse-math-lecture-3-f0b8a05a",
+        "cse-math-lecture-4-c51d5f39",
+        "answers-to-items-21-to-40-of-the-word-problems-for-the-part-ii-o-73f5fb27-2",
+        "cse-math-reviewer-2-6edcbd48",
+        "cse-math-reviewer-3-db933d05",
+        "math-reviewer-for-civil-service-exam-e9290ef6-3",
+        "cse-math-reviewer-5-adae0227",
+        "cse-math-reviewer-6-831422cd",
+        "cse-math-reviewer-7-7b1b005c",
+        "cse-math-reviewer-8-04313e52",
+        "cse-math-reviewer-9-54c68895",
+        "cse-math-reviewer-10-5e05fc14",
+        "numerical-reasoning-cse-reviewer-d35bb0a2-3",
+        "numerical-reasoning-255-questions-with-answers-fb60541d-2",
+        "numerical-reasoning-2-557993dd-2",
+        "numerical-reasoning-practice-questions-c31dd053-3",
+        "cse-math-reviewer-15-c297d8fb",
+        "cse-math-reviewer-16-507da5ca",
+        "cse-math-reviewer-17-c9191ad4",
+        "age-problems-984adc22-5",
+        "cse-math-reviewer-19-846e0228",
+        "cse-math-reviewer-20-85f1c55d",
+        "cse-math-reviewer-21-773a3781",
+        "cse-math-reviewer-22-c867c585",
+        "word-problems-worksheets-d2dda0fa-2",
+        "word-problems-explained-81d84e08-2",
+        "cse-math-reviewer-25-db36d297",
+        "cse-math-reviewer-26-5b61db94",
+        "answers-to-philippine-civil-service-reviewer-problem-solving-ite-ff6bd425-2",
+        "answers-in-number-analogy-questions-part-ii-cse-professional-rev-4c0771ef-3",
+        "express-review-guides-algebra-i-64265094",
+        "express-review-guides-algebra-ii-e2652d88",
+        "express-review-guides-basic-math-and-pre-algebra-61a86fd7",
+        "learni-4-37e7c6ac-3",
+        "math-word-problems-2-6059bf44-4",
+        "geometry-success-in-20-minutes-a-day-47e0cd44",
+        "just-in-time-algebra-a524543d",
+        "just-in-time-math-b01a92b9",
+        "solving-word-problems-career-pr-c11ac347-2",
+        "math-sequences-and-series-3cc5ffbe",
+        "math-builder-3b703b1f",
+        "math-for-civil-service-workers-1c59c6dc",
+        "math-word-problems-for-dummies-e974da66-2",
+        "math-word-problems-demystified-34fb54a8-1",
+        "math-word-problems-0358a63b-3",
+        "newton-p-bristoll-h-complete-set-of-practice-tests-for-numerical-7557c8f1-2",
+        "practical-math-success-in-20-minutes-a-day-8cbcf2d0",
+        "quantitative-aptitude-and-reasoning-9bf33498-3",
+        "statistics-success-in-20-minutes-a-day-88740ea4",
+        "trigonometry-success-in-20-minutes-a-day-1568c331"
+      ],
+      "childModules": [],
+      "fileCount": 68
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-essentials-powerpoint-reviewers",
+      "name": "Powerpoint Reviewers",
+      "path": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/Powerpoint Reviewers",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!",
+      "resources": [
+        "basic-english-7dad0a35",
+        "environmental-laws-and-regulation-3882475c",
+        "ethics-in-the-government-service-42061dee",
+        "policies-on-human-rights-education-in-the-philippines-043d5495",
+        "republic-act-9475-d44f81ae",
+        "suffix-trees-8f080ad0",
+        "value-and-ethics-of-public-responsibility-7e3f6d76"
+      ],
+      "childModules": [],
+      "fileCount": 7
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-essentials-teachpinas-com-revie",
+      "name": "TeachPinas.com Reviewers",
+      "path": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/TeachPinas.com Reviewers",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!",
+      "resources": [
+        "2022-philippine-constitution-general-information-current-events-ea798966",
+        "analogy-and-logic-52d55309",
+        "clerical-operations-questions-83110318",
+        "correct-spelling-idiomatic-expressions-27d8e010",
+        "english-grammar-and-correct-usage-sample-tests-31cd13db",
+        "english-vocabulary-questions-bde6bbc6",
+        "numerical-reasoning-84f589ea"
+      ],
+      "childModules": [],
+      "fileCount": 7
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-1-essentials-verbal-ability-books",
+      "name": "Verbal Ability Books, Lectures, and Practice Tests",
+      "path": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!/Verbal Ability Books, Lectures, and Practice Tests",
+      "parentPath": "CSE Reviewers 2026 Compilation 1/ESSENTIALS!",
+      "resources": [
+        "411-sat-essay-prompts-and-writing-questions-dc0c19a3",
+        "skill-builder-in-focus-learningexpress-editors-501-synonym-and-a-4f11f4a9-4",
+        "501-writing-prompts-fea3cabe",
+        "1000-quick-writing-ideas-77aef70d-1",
+        "a-practical-english-grammar-313b730e",
+        "advanced-english-cae-grammar-practice-c42a5fbc-1",
+        "advanced-reading-power-2d72fb56-3",
+        "basic-english-usage-a7094fc3-1",
+        "basic-grammar-and-usage-7578021e",
+        "csc-2-basic-synonyms-48827414-5",
+        "beyond-snobbery-grammar-need-not-be-cruel-to-be-cool-2dcf34b3-1",
+        "business-vocabulary-in-use-7a5abd5d-1",
+        "collins-cobuild-student-s-grammar-1e8d61d6",
+        "complete-english-grammar-rules-f6c573e2-1",
+        "complete-idiot-s-guide-to-grammar-and-style-1d33db86-1",
+        "cse-english-reviewer-1-58c02a30",
+        "cse-english-reviewer-2-e42ddf58",
+        "cse-english-reviewer-3-f521fcd2",
+        "cse-english-reviewer-4-530a7bb7",
+        "cse-english-reviewer-5-8ea6a590",
+        "basic-grammar-rules-ac4da859-4",
+        "cse-english-reviewer-7-8e37c27b",
+        "cse-english-reviewer-8-cd352b13",
+        "building-vocabulary-prefixes-roots-and-suffixes-2c022dce-2",
+        "cse-english-reviewer-10-04e0a58b",
+        "cse-english-reviewer-11-9f94a158",
+        "cse-english-reviewer-12-9683477a",
+        "cse-english-reviewer-13-05a8cc78",
+        "cse-english-reviewer-14-8c5e2c4c",
+        "cse-english-reviewer-15-876f4b52",
+        "cse-english-reviewer-16-2355d5a3",
+        "common-prefixes-14d00dc0-4",
+        "cse-filipino-reviewer-1-61779751",
+        "malalalim-na-salita-sa-tagalog-78b95950-2",
+        "cse-filipino-reviewer-3-6e5588d3",
+        "english-brainstormers-ready-to-use-games-and-activities-c2194223-1",
+        "english-for-business-communication-6e078fc1-1",
+        "english-grammar-practice-for-upper-intermediate-students-6233ec36-1",
+        "english-verb-drills-bde7d884-3",
+        "english-vocabulary-in-use-upper-intermediate-and-advanced-8bfec2fb-1",
+        "essential-grammar-in-use-supplementary-exercises-e52d890a-1",
+        "express-review-guides-writing-4169091c",
+        "grammar-and-usage-for-better-writing-3ff89744-1",
+        "gramma-2-de057984-3",
+        "grammar-success-in-20-minutes-a-day-0a53b38b",
+        "grammar-tests-d8e628df",
+        "grammatically-correct-ddde55df-4",
+        "just-in-time-vocabulary-be47e7d3",
+        "longman-english-grammar-practice-for-intermediate-students-05131c3c-1",
+        "modern-english-grammar-6440cfbe",
+        "new-grammar-practice-pre-intermediate-with-key-049ddb69-1",
+        "on-writing-by-stephen-king-0e807845-1",
+        "oxford-guide-to-english-grammar-18b4b2e8-4",
+        "proofreading-revising-and-editing-skills-success-in-20-minutes-a-391f2d49",
+        "public-speaking-success-in-20-minutes-a-day-a34ea05b",
+        "read-and-think-english-60280510-1",
+        "read-better-remember-more-478b184d",
+        "reading-comprehension-success-in-20-minutes-a-day-92167c59",
+        "really-useful-english-idioms-d0b198b2-1",
+        "research-and-writing-skills-success-in-20-minutes-a-day-58c81073",
+        "schaums-quick-guide-to-essay-writing-f3ac5d01-1",
+        "smartt-1-cdc5075f-3",
+        "speak-english-like-an-american-dc85417f-1",
+        "technical-writing-made-easier-736ebeea-1",
+        "the-a-z-of-correct-english-d97e94c2-1",
+        "the-a-z-of-medical-writing-8fb6cf60-1",
+        "the-art-of-writing-and-speaking-the-english-language-a28ef42d-1",
+        "the-craft-of-writing-sci-fi-a577013c-1",
+        "the-funbook-of-creative-writing-67631514-1",
+        "the-oxford-essential-guide-to-writing-e3bcbc7e-1",
+        "the-oxford-guide-to-english-usage-65e82675-1",
+        "the-ultimate-verbal-phrase-book-55bcebba",
+        "visual-writing-57036667",
+        "vocabulary-and-spelling-success-in-20-minutes-a-day-51dc63f8-1",
+        "vocabulary-for-civil-service-exam-a1e72793-4",
+        "vocabulary-math-formulas-af5735ec-4",
+        "webster-essential-vocabulary-19c6c03e-1",
+        "when-bad-grammar-happens-to-good-people-4c25b95a-1",
+        "word-formation-in-english-97c27dd4-1",
+        "write-better-essays-in-20-minutes-a-day-48a4a2cb",
+        "writing-skills-success-in-20-minutes-a-day-659d8161",
+        "jeaneg-1-c3fdaa42-2"
+      ],
+      "childModules": [],
+      "fileCount": 82
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2",
+      "name": "CSE Reviewers 2026 Compilation 2",
+      "path": "CSE Reviewers 2026 Compilation 2",
+      "parentPath": null,
+      "resources": [],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST",
+        "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025",
+        "CSE Reviewers 2026 Compilation 2/3. COMPILATION OF REVIEWERS",
+        "CSE Reviewers 2026 Compilation 2/4. PHILIPPINE CONSTITUITION",
+        "CSE Reviewers 2026 Compilation 2/5. PRACTICE TEST",
+        "CSE Reviewers 2026 Compilation 2/6. ABSTRACT",
+        "CSE Reviewers 2026 Compilation 2/7. CSE REVIEWERS (MORE)",
+        "CSE Reviewers 2026 Compilation 2/8. CURRENT EVENTS",
+        "CSE Reviewers 2026 Compilation 2/9. MUST READ",
+        "CSE Reviewers 2026 Compilation 2/10. TIPS TIPS TIPS"
+      ],
+      "fileCount": 0
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-1-cse-reviewer-2026-latest",
+      "name": "1. CSE REVIEWER 2026 LATEST",
+      "path": "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST",
+      "parentPath": "CSE Reviewers 2026 Compilation 2",
+      "resources": [
+        "answer-keys-2a3d9295",
+        "final-coaching-wps-office-ec804c13"
+      ],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST/ANALYTICAL",
+        "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST/CLERICAL",
+        "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST/GENERAL INFORMATION",
+        "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST/NUMERICAL",
+        "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST/VERBAL"
+      ],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-1-cse-reviewer-2026-latest-anal",
+      "name": "ANALYTICAL",
+      "path": "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST/ANALYTICAL",
+      "parentPath": "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST",
+      "resources": [
+        "logical-reasoning-d4011b9f",
+        "word-analogy-4d52e5ca"
+      ],
+      "childModules": [],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-1-cse-reviewer-2026-latest-cler",
+      "name": "CLERICAL",
+      "path": "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST/CLERICAL",
+      "parentPath": "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST",
+      "resources": [
+        "correct-homophone-edb8e3f6",
+        "finding-errors-0c49b376",
+        "spelling-87d7a128"
+      ],
+      "childModules": [],
+      "fileCount": 3
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-1-cse-reviewer-2026-latest-gene",
+      "name": "GENERAL INFORMATION",
+      "path": "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST/GENERAL INFORMATION",
+      "parentPath": "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST",
+      "resources": [
+        "general-info-2024-with-key-answers-1-35186c67"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-1-cse-reviewer-2026-latest-nume",
+      "name": "NUMERICAL",
+      "path": "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST/NUMERICAL",
+      "parentPath": "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST",
+      "resources": [
+        "basic-concepts-699b5c93",
+        "problem-solving-skills-13954cfd"
+      ],
+      "childModules": [],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-1-cse-reviewer-2026-latest-verb",
+      "name": "VERBAL",
+      "path": "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST/VERBAL",
+      "parentPath": "CSE Reviewers 2026 Compilation 2/1. CSE REVIEWER 2026 LATEST",
+      "resources": [
+        "grammar-and-correct-usage-5c3f0711",
+        "reading-comprehension-5ec86e5e",
+        "vocabulary-1-aa3f0835"
+      ],
+      "childModules": [],
+      "fileCount": 3
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-2-cse-reviewer-2025",
+      "name": "2. CSE REVIEWER 2025",
+      "path": "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025",
+      "parentPath": "CSE Reviewers 2026 Compilation 2",
+      "resources": [],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025/Environmental",
+        "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025/Labor Code",
+        "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025/Logical Reasoning",
+        "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025/Numerical",
+        "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025/Philippine Institution",
+        "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025/Test Drills",
+        "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025/Verbal"
+      ],
+      "fileCount": 0
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-2-cse-reviewer-2025-environment",
+      "name": "Environmental",
+      "path": "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025/Environmental",
+      "parentPath": "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025",
+      "resources": [
+        "lankbank-environmental-88251b56-3",
+        "managing-impacts-of-development-in-the-coastal-zone-c8240aa8-2",
+        "water-code-of-the-philippines-ae9d71b2-2"
+      ],
+      "childModules": [],
+      "fileCount": 3
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-2-cse-reviewer-2025-labor-code",
+      "name": "Labor Code",
+      "path": "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025/Labor Code",
+      "parentPath": "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025",
+      "resources": [
+        "labor-code-287f2e23-2",
+        "q-and-a-on-workers-statutory-monetary-benefits-3cf75708-2"
+      ],
+      "childModules": [],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-2-cse-reviewer-2025-logical-rea",
+      "name": "Logical Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025/Logical Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025",
+      "resources": [
+        "logicalreasoningtest1-questions-7a16ae84-2",
+        "logicalreasoningtest1-solutions-c1c3c69f-2",
+        "logicalreasoningtest2-solutions-12ce021c-3"
+      ],
+      "childModules": [],
+      "fileCount": 3
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-2-cse-reviewer-2025-numerical",
+      "name": "Numerical",
+      "path": "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025/Numerical",
+      "parentPath": "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025",
+      "resources": [
+        "age-problems-984adc22-2",
+        "math-reviewer-for-civil-service-exam-e9290ef6-2",
+        "number-series-98-problems-with-solutions-d6164038-2",
+        "numerical-reasoning-cse-reviewer-d35bb0a2-2",
+        "numerical-reasoning-practice-questions-c31dd053-2"
+      ],
+      "childModules": [],
+      "fileCount": 5
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-2-cse-reviewer-2025-philippine-",
+      "name": "Philippine Institution",
+      "path": "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025/Philippine Institution",
+      "parentPath": "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025",
+      "resources": [
+        "phil-history-25qna-6c2df97b-1",
+        "ra6713-95caf29f-3",
+        "the-philippine-constitution-60-items-a0302063-1",
+        "1987-philippine-constitution-57864e49-3"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-2-cse-reviewer-2025-test-drills",
+      "name": "Test Drills",
+      "path": "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025/Test Drills",
+      "parentPath": "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025",
+      "resources": [
+        "4-ace-review-center-exam-reviewer-around-900-items-with-answers-34420437-3",
+        "civil-service-exam-complete-reviewer-2018-page-01-61f17c34",
+        "msa-training-program-e794320f-4"
+      ],
+      "childModules": [],
+      "fileCount": 3
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-2-cse-reviewer-2025-verbal",
+      "name": "Verbal",
+      "path": "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025/Verbal",
+      "parentPath": "CSE Reviewers 2026 Compilation 2/2. CSE REVIEWER 2025",
+      "resources": [
+        "building-vocabulary-prefixes-roots-and-suffixes-2c022dce-1",
+        "common-prefixes-14d00dc0-1",
+        "english-verb-drills-bde7d884-2",
+        "vocabulary-for-civil-service-exam-a1e72793-2"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-3-compilation-of-reviewers",
+      "name": "3. COMPILATION OF REVIEWERS",
+      "path": "CSE Reviewers 2026 Compilation 2/3. COMPILATION OF REVIEWERS",
+      "parentPath": "CSE Reviewers 2026 Compilation 2",
+      "resources": [
+        "english-grammar-7694013a-3",
+        "phil-cse-complete-reviewer-for-2019-fdc44c58-4",
+        "civil-service-exam-reviewer-2021-pinoy-einstein-ddb51ab4-1",
+        "cse-complete-reviewer-2020-db859b75-2",
+        "2-civil-service-exam-complete-reviewer-mock-exam-6f1aab5c-1"
+      ],
+      "childModules": [],
+      "fileCount": 5
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-4-philippine-constituition",
+      "name": "4. PHILIPPINE CONSTITUITION",
+      "path": "CSE Reviewers 2026 Compilation 2/4. PHILIPPINE CONSTITUITION",
+      "parentPath": "CSE Reviewers 2026 Compilation 2",
+      "resources": [
+        "constitutional-law-1-144e1263",
+        "cronology-of-the-1987-philippine-constitution-78ad91b2",
+        "philippine-constitution-71012330",
+        "philippines-1987-ddd48689",
+        "summary-reviewer-of-the-1987-philippine-constitution-ab87615f"
+      ],
+      "childModules": [],
+      "fileCount": 5
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-5-practice-test",
+      "name": "5. PRACTICE TEST",
+      "path": "CSE Reviewers 2026 Compilation 2/5. PRACTICE TEST",
+      "parentPath": "CSE Reviewers 2026 Compilation 2",
+      "resources": [
+        "practice-tests-2-3ee5f327-1",
+        "practice-tests-a89e01b7-1"
+      ],
+      "childModules": [],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-6-abstract",
+      "name": "6. ABSTRACT",
+      "path": "CSE Reviewers 2026 Compilation 2/6. ABSTRACT",
+      "parentPath": "CSE Reviewers 2026 Compilation 2",
+      "resources": [
+        "abstract-reasoning-1-1-7e628ff6-1",
+        "abstract-reasoning-2-1-73e7edee-1",
+        "abstract-reasoning-3-8a1ee2cd-1",
+        "abstract-reasoning-4-ecab0f76-1"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-7-cse-reviewers-more",
+      "name": "7. CSE REVIEWERS (MORE)",
+      "path": "CSE Reviewers 2026 Compilation 2/7. CSE REVIEWERS (MORE)",
+      "parentPath": "CSE Reviewers 2026 Compilation 2",
+      "resources": [
+        "quantitative-aptitude-and-reasoning-9bf33498-1",
+        "quantitative-reasoning-2-10a0704a-2",
+        "verbal-reasoning-english-vocabulary-part-1-d9cbd9bd-1",
+        "verbal-reasoning-english-vocabulary-part-3-1-8f7b389c-1",
+        "verbal-reasoning-english-vocabularypart-4-1-bbdffb73-1",
+        "verbal-reasoning-test1-questions-1-8b36f264-1",
+        "verbal-reasoning-test1-solutions-2c2cced7-1",
+        "verbal-reasoning-test2-solutions-4db831e3-1"
+      ],
+      "childModules": [],
+      "fileCount": 8
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-8-current-events",
+      "name": "8. CURRENT EVENTS",
+      "path": "CSE Reviewers 2026 Compilation 2/8. CURRENT EVENTS",
+      "parentPath": "CSE Reviewers 2026 Compilation 2",
+      "resources": [
+        "list-of-previous-senators-senate-of-the-philippines-2309a46d-1",
+        "senators-of-the-19th-congress-senate-of-the-philippines-17e2d88b-1"
+      ],
+      "childModules": [],
+      "fileCount": 2
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-9-must-read",
+      "name": "9. MUST READ",
+      "path": "CSE Reviewers 2026 Compilation 2/9. MUST READ",
+      "parentPath": "CSE Reviewers 2026 Compilation 2",
+      "resources": [
+        "english-grammar-2002-sparkcharts-9ba2f2a0-2",
+        "general-knowledge-world-history-2002-sparkcharts-93438f6d-1",
+        "math-basics-2002-sparkcharts-062166e9-1"
+      ],
+      "childModules": [],
+      "fileCount": 3
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-2-10-tips-tips-tips",
+      "name": "10. TIPS TIPS TIPS",
+      "path": "CSE Reviewers 2026 Compilation 2/10. TIPS TIPS TIPS",
+      "parentPath": "CSE Reviewers 2026 Compilation 2",
+      "resources": [
+        "scope-of-examination-1-0b69b59d-1",
+        "scope-of-examination-58d84a12-1",
+        "tips-16b82792-1",
+        "tips-87b2cdea-1"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3",
+      "name": "CSE Reviewers 2026 Compilation 3",
+      "path": "CSE Reviewers 2026 Compilation 3",
+      "parentPath": null,
+      "resources": [
+        "civil-service-exam-reviewer-for-professional-and-sub-professiona-30c04518-2"
+      ],
+      "childModules": [
+        "CSE Reviewers 2026 Compilation 3/Abstract Reasoning",
+        "CSE Reviewers 2026 Compilation 3/Complete CSE Reviewers Compilation",
+        "CSE Reviewers 2026 Compilation 3/Current Events ( Gen. Info)",
+        "CSE Reviewers 2026 Compilation 3/Grammar",
+        "CSE Reviewers 2026 Compilation 3/Important documents + FORMS",
+        "CSE Reviewers 2026 Compilation 3/Key Words Used in Math Word Problems",
+        "CSE Reviewers 2026 Compilation 3/Logic",
+        "CSE Reviewers 2026 Compilation 3/Logical Reasoning",
+        "CSE Reviewers 2026 Compilation 3/Math Problems (Different topics)",
+        "CSE Reviewers 2026 Compilation 3/Math Word Problems",
+        "CSE Reviewers 2026 Compilation 3/Numerical Reasoning",
+        "CSE Reviewers 2026 Compilation 3/Philippine Constitution, Environment Protection, Labor Code, R.A 6713",
+        "CSE Reviewers 2026 Compilation 3/Practice Tests with Answer Keys",
+        "CSE Reviewers 2026 Compilation 3/Quantitative Reasoning",
+        "CSE Reviewers 2026 Compilation 3/Tips from other passers + Scope of Examination",
+        "CSE Reviewers 2026 Compilation 3/Vocabulary",
+        "CSE Reviewers 2026 Compilation 3/Word Analogy"
+      ],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-abstract-reasoning",
+      "name": "Abstract Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 3/Abstract Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "abstract-reasoning-1-1-7e628ff6-2",
+        "abstract-reasoning-2-1-73e7edee-2",
+        "abstract-reasoning-3-8a1ee2cd-2",
+        "abstract-reasoning-4-ecab0f76-2",
+        "abstract-reasoning-5-bb2b5ef0-1",
+        "abstract-reasoning-with-explanation-3ea2a17d-1"
+      ],
+      "childModules": [],
+      "fileCount": 6
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-complete-cse-reviewers-compilat",
+      "name": "Complete CSE Reviewers Compilation",
+      "path": "CSE Reviewers 2026 Compilation 3/Complete CSE Reviewers Compilation",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "ace-review-center-csc-bc4e762a-3",
+        "professional-and-sub-professional-practice-test-649f8c35-2",
+        "civil-service-reviewer-with-answer-key-612bd543-1",
+        "english-grammar-7694013a-4",
+        "phil-cse-complete-reviewer-for-2019-fdc44c58-5",
+        "cse-complete-reviewer-2020-db859b75-1",
+        "phil-cse-complete-reviewer-for-2020-converted-8f740d0b"
+      ],
+      "childModules": [],
+      "fileCount": 7
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-current-events-gen-info",
+      "name": "Current Events ( Gen. Info)",
+      "path": "CSE Reviewers 2026 Compilation 3/Current Events ( Gen. Info)",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "list-of-previous-senators-senate-of-the-philippines-2309a46d-3",
+        "senators-of-the-19th-congress-senate-of-the-philippines-17e2d88b-3",
+        "2020-in-the-philippines-e39f93c7-2",
+        "2021-in-the-philippines-8cc1f69d-2",
+        "2022-in-the-philippines-05a37113-2",
+        "2-philippine-government-directory-of-agencies-and-officials-bd281b21"
+      ],
+      "childModules": [],
+      "fileCount": 6
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-grammar",
+      "name": "Grammar",
+      "path": "CSE Reviewers 2026 Compilation 3/Grammar",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "answers-to-grammar-and-correct-usage-6ccb2dd6-1",
+        "basic-grammar-rules-ac4da859-1",
+        "basic-english-grammar-a97bd36d",
+        "english-grammar-2002-sparkcharts-9ba2f2a0-1",
+        "english-verb-drills-bde7d884-1",
+        "geraldine-woods-english-grammar-workbook-for-dummies-wiley-2006-2f7786eb-1",
+        "goof-proof-grammar-2b3e6a84-1",
+        "grammar-essentials-3rd-edition-ed84ee4d-1",
+        "grammatically-correct-ddde55df-1",
+        "oxford-guide-to-english-grammar-18b4b2e8-1"
+      ],
+      "childModules": [],
+      "fileCount": 10
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-important-documents-forms",
+      "name": "Important documents + FORMS",
+      "path": "CSE Reviewers 2026 Compilation 3/Important documents + FORMS",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "certificate-of-consent-3150cc9f-2",
+        "civil-service-exam-application-form-7252209f-2",
+        "cs-form-no-100-revised-september-2016-d1be4ca1-2",
+        "health-declaration-form-a1-whole-page-a-27210500-2",
+        "sample-answer-sheet-for-cs-exam-a0a8ca03-2"
+      ],
+      "childModules": [],
+      "fileCount": 5
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-key-words-used-in-math-word-pro",
+      "name": "Key Words Used in Math Word Problems",
+      "path": "CSE Reviewers 2026 Compilation 3/Key Words Used in Math Word Problems",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "key-words-used-in-math-word-problems-d534421d-1"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-logic",
+      "name": "Logic",
+      "path": "CSE Reviewers 2026 Compilation 3/Logic",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "logic-challenging-logic-and-reasoning-questions-13d3eb96-1"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-logical-reasoning",
+      "name": "Logical Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 3/Logical Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "logicalreasoningtest1-questions-7a16ae84-1",
+        "logicalreasoningtest1-solutions-c1c3c69f-1",
+        "logicalreasoningtest2-questions-3e3db9d7-1",
+        "logicalreasoningtest2-solutions-12ce021c-2",
+        "logicalreasoningtest2-solutions-12ce021c-1"
+      ],
+      "childModules": [],
+      "fileCount": 5
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-math-problems-different-topics",
+      "name": "Math Problems (Different topics)",
+      "path": "CSE Reviewers 2026 Compilation 3/Math Problems (Different topics)",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "cse-reviewer-for-math-c881941a",
+        "learningexpress-editors-501-algebra-questions-learningexpress-20-a35bd5bf-1",
+        "1-math-problems-b7be40f5-3",
+        "math-basics-2002-sparkcharts-062166e9-3"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-math-word-problems",
+      "name": "Math Word Problems",
+      "path": "CSE Reviewers 2026 Compilation 3/Math Word Problems",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "age-problems-984adc22-1",
+        "math-solutions-to-complete-cse-reviewer-2020-131-180-ppsx-c93eab05",
+        "math-word-problems-2-6059bf44-1",
+        "math-word-problems-0358a63b-1",
+        "word-problems-explained-81d84e08-1",
+        "word-problems-worksheets-d2dda0fa-1",
+        "math-word-problems-aed4c5ca-1",
+        "1-math-problems-b7be40f5-1"
+      ],
+      "childModules": [],
+      "fileCount": 8
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-numerical-reasoning",
+      "name": "Numerical Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 3/Numerical Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "newton-p-bristoll-h-complete-set-of-practice-tests-for-numerical-7557c8f1-1",
+        "number-series-98-problems-with-solutions-d6164038-1",
+        "numerical-reasoning-255-questions-with-answers-fb60541d-1",
+        "numerical-reasoning-cse-reviewer-d35bb0a2-1",
+        "numerical-reasoning-practice-questions-c31dd053-1",
+        "numerical-reasoning-test1-questions-e3cc12eb-1",
+        "numerical-reasoning-test1-solutions-d2381f22-1",
+        "numerical-reasoning-test2-questions-30230889-1",
+        "numerical-reasoning-test2-solutions-98e7418d-1",
+        "sample-answer-sheet-for-civil-service-exam-d33e3a55-2"
+      ],
+      "childModules": [],
+      "fileCount": 10
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-philippine-constitution-environ",
+      "name": "Philippine Constitution, Environment Protection, Labor Code, R.A 6713",
+      "path": "CSE Reviewers 2026 Compilation 3/Philippine Constitution, Environment Protection, Labor Code, R.A 6713",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "lankbank-environmental-88251b56-2",
+        "human-rights-law-b2a4df3b",
+        "labor-code-287f2e23-1",
+        "managing-impacts-of-development-in-the-coastal-zone-c8240aa8-1",
+        "philippines-code-of-conduct-and-ethical-standards-for-public-off-ec298402-2",
+        "q-and-a-on-workers-statutory-monetary-benefits-3cf75708-1",
+        "ra6713-95caf29f-2",
+        "water-code-of-the-philippines-ae9d71b2-1",
+        "csc-5-philippine-constitution-9a03b25d-4",
+        "csc-5-philippine-constitution-9a03b25d-3",
+        "1987-philippine-constitution-57864e49-2"
+      ],
+      "childModules": [],
+      "fileCount": 11
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-practice-tests-with-answer-keys",
+      "name": "Practice Tests with Answer Keys",
+      "path": "CSE Reviewers 2026 Compilation 3/Practice Tests with Answer Keys",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "answers-in-number-analogy-questions-part-ii-cse-professional-rev-4c0771ef-2",
+        "english-grammar-7694013a-5",
+        "civil-service-exam-reviewer-2021-pinoy-einstein-61ba9b8c-1",
+        "cse-reviewer-p1-1taker-7ac7b7a8-2",
+        "cse-reviewer-p1-1taker-7ac7b7a8-3",
+        "phil-cse-complete-reviewer-for-2019-fdc44c58-2",
+        "cse-mock-exam-f161ae32-1",
+        "cse-reviewer-professional-v-1-0-42769817-1",
+        "cse-reviewer-subpro-v-1-0-004cf268-1",
+        "cse-reviewer-p1-1taker-7ac7b7a8-1",
+        "cse-reviewer-p2-1taker-1ded3197-1",
+        "english-grammar-7694013a-1",
+        "math-reviewer-for-civil-service-exam-e9290ef6-1",
+        "items-mathematics-reviewer-with-detailed-solutions-9f3c4329-2",
+        "professional-and-sub-professional-practice-test-649f8c35-1",
+        "free-250-math-problems-with-links-for-tutorial-videos-f52ebf55-2",
+        "item-mathematics-with-detailed-solutions-31304811-2",
+        "item-mathematics-with-detailed-solutions-31304811-1",
+        "items-mathematics-reviewer-with-detailed-solutions-9f3c4329-1"
+      ],
+      "childModules": [],
+      "fileCount": 19
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-quantitative-reasoning",
+      "name": "Quantitative Reasoning",
+      "path": "CSE Reviewers 2026 Compilation 3/Quantitative Reasoning",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "quantitative-reasoning-2-10a0704a-1"
+      ],
+      "childModules": [],
+      "fileCount": 1
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-tips-from-other-passers-scope-o",
+      "name": "Tips from other passers + Scope of Examination",
+      "path": "CSE Reviewers 2026 Compilation 3/Tips from other passers + Scope of Examination",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "civil-service-exam-reviewer-for-professional-and-sub-professiona-e7ac59e6",
+        "june-19-exam-1-5f1a0342-1",
+        "june-19-exam-a69c474c-1",
+        "june-2022-3639338b-1",
+        "march-2022-cf73fdd7-1",
+        "scope-of-examination-1-0b69b59d-2",
+        "scope-of-examination-58d84a12-2",
+        "tips-87b2cdea-2",
+        "19-2022-observations-7d8b4ffe-1"
+      ],
+      "childModules": [],
+      "fileCount": 9
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-vocabulary",
+      "name": "Vocabulary",
+      "path": "CSE Reviewers 2026 Compilation 3/Vocabulary",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "skill-builder-in-focus-learningexpress-editors-501-synonym-and-a-4f11f4a9-1",
+        "advanced-reading-power-2d72fb56-1",
+        "csc-2-basic-synonyms-48827414-1",
+        "dictionary-of-english-idioms-and-idiomatic-expressions-356ec989-1",
+        "csc-2-basic-synonyms-48827414-3",
+        "express-review-guides-vocabulary-84342f1d-1",
+        "malalalim-na-salita-sa-tagalog-78b95950-1",
+        "csc-4-dictionary-of-synonyms-eb141b63-2",
+        "verb-tense-practice1-2-26353eb7",
+        "vocabulary-math-formulas-af5735ec-1",
+        "vocabulary-for-civil-service-exam-a1e72793-1",
+        "vocabulary-questions-73b9f0e1-1"
+      ],
+      "childModules": [],
+      "fileCount": 12
+    },
+    {
+      "id": "cse-reviewers-2026-compilation-3-word-analogy",
+      "name": "Word Analogy",
+      "path": "CSE Reviewers 2026 Compilation 3/Word Analogy",
+      "parentPath": "CSE Reviewers 2026 Compilation 3",
+      "resources": [
+        "word-analogy-questions-c7fd89b0",
+        "word-analogy-questions-86665cce-2",
+        "1-math-problems-b7be40f5-2",
+        "word-analogy-questions-86665cce-1"
+      ],
+      "childModules": [],
+      "fileCount": 4
+    }
+  ],
+  "totalModules": 141,
+  "totalCollections": 4
+}

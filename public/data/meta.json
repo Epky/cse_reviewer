@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-11-09T11:29:27.116Z",
+  "sizes": {
+    "totalFiles": 1064,
+    "totalMB": 2054.5,
+    "uniqueObjects": 536,
+    "uniqueMB": 913.4,
+    "catalogued": 1063,
+    "pendingConversion": 0,
+    "converted": 46,
+    "duplicatePhysicalEntries": 527,
+    "duplicateGroups": 235,
+    "ignored": 1,
+    "mode": "all",
+    "excludedLicenses": []
+  },
+  "byArea": {
+    "General Knowledge (GK)": 402,
+    "Logic & Reasoning": 64,
+    "Math": 199,
+    "Clerical": 16,
+    "English": 382
+  },
+  "byType": {
+    "reviewer": 297,
+    "answer_key": 318,
+    "test": 226,
+    "reference": 181,
+    "learn": 15,
+    "form": 15,
+    "tips": 9,
+    "mock": 2
+  },
+  "byLicense": {
+    "unknown": 809,
+    "official": 80,
+    "free-published": 59,
+    "commercial": 115
+  },
+  "areas": [
+    "English",
+    "Math",
+    "Logic & Reasoning",
+    "Clerical",
+    "General Knowledge (GK)"
+  ],
+  "collections": [
+    "CSE 2026 EXAMS AND ANSWERS SHEET",
+    "CSE Reviewers 2026 Compilation 1",
+    "CSE Reviewers 2026 Compilation 2",
+    "CSE Reviewers 2026 Compilation 3"
+  ],
+  "modules": 141,
+  "collectionsCount": 4
+}

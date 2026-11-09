@@ -1,0 +1,46 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Exam source corpus — never commit the original files
+/CSE 2026 - CIVIL SERVICE EXAM REVIEWERS 2026/
+
+# Local pipeline artifacts that contain machine paths or generated binaries
+/data/file-map.json
+/data/r2-index.json
+/data/converted/
+/data/resources.json
+/data/meta.json
+/data/modules.json
+/data/pipeline-report.json
+/data/overrides.json
+/data/policy.json
+
+# Secrets and environment overrides
+.env
+.env.*
+!.env.example
+.env.r2
+worker/.dev.vars
+.vercel
